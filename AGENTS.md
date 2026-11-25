@@ -39,14 +39,17 @@ This is one AdigunBible verse with words from several languages woven into one s
 * Keep the meaning and emotional weight of serious events intact while using the Gen Z voice.
 
 ## EDIT AND SAFE O GIT HUB
-YOU ARE TO START FORM THE LAST BOOK OF THE BIBLE REVELATION TO MATTEW 
+YOU ARE TO START FORM THE LAST BOOK OF THE NEW TESTAMENT :  Revelation to mattew
+YOU ARE TO WORK ONLY ON AND FROM revelation  TO mattew  AND NOT THE OTHER WAY ROUNDS
 Your task is to apply all the above rules: Canonical edition, Universal verse voice ,  word-level code-switching and  Meaning and dialogue to all the bible   words, sentence , verse, chapter and book in this repo , then save it back . do not deploy or merge. only edddit , commit and save it back onthe gitbub. 
 * Phase 3 is Bible content first. Work locally on a branch and validate one complete chapter at a time in canonical order from Genesis through Revelation.
 * Before merging a chapter, record evidence for original Gen Z voice, every word paired with an emoji from the palette, required and accurate code-switches, faithful meaning, complete and ordered verses, source syntax, reader navigation, and rendering.
 * Read every verse without its emojis as part of voice review. Rewrite any line that still sounds like plain or formal English. Check the phrasing, rhythm, and mood across the whole verse while preserving the speaker, meaning, and emotional weight.
 * Never SAVE any verse, chapter, or book until its full Gen Z voice, slang, mood, emotional weight, word-level emoji coverage, multilingual code-switching, Scripture meaning, completeness, and reader rendering all pass. An incomplete or unverified check blocks the merge.
 * Include at least four natural switch each from Nigerian Pidgin English, Yoruba, German (Deutsch), and Hebrew in every verse. Use these four more frequently, code-switch as many words as fit the verse, and keep using the wider mix of core and rotating languages across every chapter. Pair every word, including switched words, with a context-fitting palette emoji.
-* Every switched word or phrase must show its contextual meaning on mouse hover in the reader. Verify the glosses and their rendering before merging.
+* Every switched word or phrase must show its contextual meaning on mouse hover in the reader. Verify the glosses and their rendering before saving..
 *
 * Never mark an incomplete chapter or book complete. Close out each book after its final edit and save.
 * Record whole-corpus validation before marking the 66-book edition complete. Verify verse counts, reader navigation, source syntax, language accuracy, and reader rendering across the complete corpus.
+
+* an example of a chapter should be  like this 
