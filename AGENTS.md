@@ -5,12 +5,13 @@ These rules govern work across all 66 books, every chapter, and every verse.
 ## Canonical edition
 
 * AdigunBible is the product's one and only Bible edition.
-* Write original AdigunBible Scripture wording. The Gen Z Bible reference is a style reference; do not copy its verse wording.
+* Write original AdigunBible Scripture wording. The Gen Z Bible reference  https://genz.bible/ is a style reference; copy its verse wording where applicable and emojify it .
 * Use the user's supplied chapter drafts as the source when present.
 
 ## Universal verse voice
 
 * Start from a reliable source verse for meaning, apply the universal voice rules to its full wording, and produce original AdigunBible text. Reword every ordinary source phrase in vivid, conversational Gen Z storytelling; do not leave plain formal English or merely add a slang word.
+* Replace all plain english with gen z words and slang
 * Apply the user's vocabulary bank throughout the full verse, not just as one slang word added to otherwise plain wording:
 
   * Address: Fam, Bro, Bestie, My dude, Y'all, Friend.
@@ -37,14 +38,15 @@ This is one AdigunBible verse with words from several languages woven into one s
 * Use “bro,” “fam,” “bestie,” and similar address only where it fits the speaker and scene.
 * Keep the meaning and emotional weight of serious events intact while using the Gen Z voice.
 
-## Build and publish
-
+## EDIT AND SAFE O GIT HUB
+YOU ARE TO START FORM THE LAST BOOK OF THE BIBLE REVELATION TO MATTEW 
+Your task is to apply all the above rules: Canonical edition, Universal verse voice ,  word-level code-switching and  Meaning and dialogue to all the bible   words, sentence , verse, chapter and book in this repo , then save it back . do not deploy or merge. only edddit , commit and save it back onthe gitbub. 
 * Phase 3 is Bible content first. Work locally on a branch and validate one complete chapter at a time in canonical order from Genesis through Revelation.
 * Before merging a chapter, record evidence for original Gen Z voice, every word paired with an emoji from the palette, required and accurate code-switches, faithful meaning, complete and ordered verses, source syntax, reader navigation, and rendering.
 * Read every verse without its emojis as part of voice review. Rewrite any line that still sounds like plain or formal English. Check the phrasing, rhythm, and mood across the whole verse while preserving the speaker, meaning, and emotional weight.
-* Never merge any verse, chapter, or book until its full Gen Z voice, slang, mood, emotional weight, word-level emoji coverage, multilingual code-switching, Scripture meaning, completeness, and reader rendering all pass. An incomplete or unverified check blocks the merge.
+* Never SAVE any verse, chapter, or book until its full Gen Z voice, slang, mood, emotional weight, word-level emoji coverage, multilingual code-switching, Scripture meaning, completeness, and reader rendering all pass. An incomplete or unverified check blocks the merge.
 * Include at least four natural switch each from Nigerian Pidgin English, Yoruba, German (Deutsch), and Hebrew in every verse. Use these four more frequently, code-switch as many words as fit the verse, and keep using the wider mix of core and rotating languages across every chapter. Pair every word, including switched words, with a context-fitting palette emoji.
 * Every switched word or phrase must show its contextual meaning on mouse hover in the reader. Verify the glosses and their rendering before merging.
-* Push the chapter branch, merge through a pull request to main, and verify the GitHub Actions Pages deployment before beginning the next chapter.
-* Never mark an incomplete chapter or book complete. Close out each book after its final chapter has passed and deployed.
+*
+* Never mark an incomplete chapter or book complete. Close out each book after its final edit and save.
 * Record whole-corpus validation before marking the 66-book edition complete. Verify verse counts, reader navigation, source syntax, language accuracy, and reader rendering across the complete corpus.
