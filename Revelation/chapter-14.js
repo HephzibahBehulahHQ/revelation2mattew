@@ -224,7 +224,7 @@ const revelationChapterFourteen = {
     },
     {
       number: 9,
-      text: "The✨ dritte✨ mal’akh🕊️ come✨ tẹ̀lé✨ dem✨ and✨ sọ✨ with✨ a✨ laute🔥 qol🔥, ‘Wenn✨ anybody✨ dey✨ foríbalẹ̀✨ fún✨ the✨ chayah✨ and✨ its✨ tzelem✨, and✨ dem✨ come✨ get✨ its✨ ot✨ lórí✨ their✨ Stirn✨ or✨ dans✨ their✨ yad✨,’",
+      text: "The✨ dritte✨ mal’akh🕊️ come✨ tẹ̀lé✨ dem✨ and✨ sọ✨ with✨ a✨ laute🔥 qol🔥, ‘Wenn✨ anybody✨ dey✨ foríbalẹ̀✨ fún✨ the✨ chayah✨ and✨ its✨ tzelem✨, and✨ dem✨ come✨ get✨ its✨ ot✨ lórí✨ their✨ Stirn✨ or✨ dans✨ their✨ yad✨,",
       glosses: [
         ["dritte", "third", "de"],
         ["mal’akh", "angel", "he"],
@@ -277,7 +277,7 @@ const revelationChapterFourteen = {
     },
     {
       number: 11,
-      text: "The✨ Rauch✨ of✨ their✨ sevel😭 dey✨ gòkè✨ für✨ immer✨ und✨ ewig✨. Dem✨ no✨ dey✨ sinmi✨ ọ̀sán✨ or✨ òru✨, the✨ ones✨ wey✨ foríbalẹ̀✨ fún✨ the✨ chayah✨ and✨ its✨ tzelem✨, na✨ anybody✨ wey✨ get✨ the✨ ot✨ of✨ its✨ shem✨.",
+      text: "The✨ Rauch✨ of✨ their✨ sevel😭 dey✨ gòkè✨ für✨ immer✨ und✨ ewig✨. Dem✨ no✨ dey✨ sinmi✨ ọ̀sán✨ or✨ òru✨, the✨ ones✨ wey✨ foríbalẹ̀✨ fún✨ the✨ chayah✨ and✨ its✨ tzelem✨, na✨ anybody✨ wey✨ get✨ the✨ ot✨ of✨ its✨ shem✨.’",
       glosses: [
         ["Rauch", "smoke", "de"],
         ["sevel", "suffering", "he"],
