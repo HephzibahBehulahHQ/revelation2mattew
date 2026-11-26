@@ -138,7 +138,7 @@ const revelationChapterTen = {
     },
     {
       number: 6,
-      text: "E✨ come✨ búra✨ by✨ the✨ One🙏 wey✨ dey✨ live✨ für✨ immer✨ und✨ ewig✨, the✨ One🙏 who✨ dá✨ shamayim✨ and✨ gbogbo✨ ohun✨ tó✨ wà✨ nínú✨ it✨, the✨ eretz🌍 and✨ komai✨ in✨ it✨, and✨ the✨ yam🌍 and✨ ihe✨ niile✨ it✨ holds✨. E✨ swear✨ say✨ zman✨ no✨ go✨ dey✨ any✨ longer✨.",
+      text: "E✨ come✨ búra✨ by✨ the✨ One🙏 wey✨ dey✨ live✨ für✨ immer✨ und✨ ewig✨, the✨ One🙏 who✨ dá✨ shamayim✨ and✨ gbogbo✨ ohun✨ tó✨ wà✨ nínú✨ it✨, the✨ eretz🌍 and✨ komai✨ in✨ it✨, and✨ the✨ yam🌍 and✨ ihe✨ niile✨ it✨ holds✨. E✨ swear✨ say✨ zman✨ for✨ waiting✨ no✨ go✨ dey✨ any✨ longer✨.",
       glosses: [
         ["E", "He", "pcm"],
         ["come", "then", "pcm"],
