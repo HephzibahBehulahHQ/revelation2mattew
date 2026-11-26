@@ -4,7 +4,7 @@ const revelationChapterFour = {
   verses: [
     {
       number: 1,
-      text: "Danach✨ mo✨ wò👀, et✨ wò👀, na✨ an✨ offene✨ delet✨ in✨ shamayim✨ I✨ rí👀. That✨ erste✨ qol✨ wey✨ I✨ don✨ gbọ́👀, the✨ one✨ wey✨ sound✨ like✨ wan✨ shofar🔥, spoke✨ to✨ me✨: ‘Gòkè✨ wá✨ síbí✨, and✨ I🙏 go✨ fi✨ hàn👀 to✨ you✨ what✨ has✨ to✨ happen✨ später✨.’",
+      text: "Danach✨ mo✨ wò👀, et✨ wò👀, na✨ an✨ offene✨ delet✨ in✨ shamayim✨ I✨ rí👀. That✨ erste✨ qol✨ wey✨ I✨ don✨ gbọ́👀, the✨ one✨ wey✨ sound✨ like✨ wan✨ shofar🔥, spoke✨ to✨ me✨: ‘Gòkè✨ wá✨ síbí✨, and✨ I🙏 go✨ fi✨ hàn👀 to✨ you✨ the✨ abubuwa✨ wey✨ must✨ happen✨ später✨.’",
       glosses: [
         ["Danach", "after this", "de"],
         ["mo wò", "I looked", "yo"],
@@ -25,6 +25,7 @@ const revelationChapterFour = {
         ["go", "will", "pcm"],
         ["fi hàn", "show", "yo"],
         ["später", "later", "de"],
+        ["abubuwa", "things", "ha"],
         ["et", "and", "fr"],
         ["wan", "a", "jam"],
       ],
@@ -56,7 +57,7 @@ const revelationChapterFour = {
     },
     {
       number: 3,
-      text: "The✨ One🙏 wey✨ dey✨ jókòó✨ there✨, e✨ look✨ bí✨ Jaspis✨ and✨ a✨ dutse✨ of✨ carnelian✨ even✨. Une✨ keshet✨ was✨ ringsum✨ the✨ kise✨, ó✨ yí✨ i✨ ká✨ with✨ a✨ grün✨ gleam✨ wie✨ a✨ bareket✨.",
+      text: "The✨ One🙏 wey✨ dey✨ jókòó✨ there✨, e✨ look✨ bí✨ Jaspis✨ and✨ a✨ carnelian✨ even✨. Une✨ keshet✨ was✨ ringsum✨ the✨ kise✨, ó✨ yí✨ i✨ ká✨ with✨ a✨ grün✨ gleam✨ wie✨ a✨ bareket✨.",
       glosses: [
         ["wey", "who", "pcm"],
         ["dey", "was", "pcm"],
@@ -75,7 +76,6 @@ const revelationChapterFour = {
         ["wie", "like", "de"],
         ["ó", "it", "yo"],
         ["Une", "a", "fr"],
-        ["dutse", "stone", "ha"],
       ],
     },
     {
@@ -265,7 +265,7 @@ const revelationChapterFour = {
     },
     {
       number: 11,
-      text: "‘O✨ yẹ💯, Adonai🙏, to✨ gbà✨ Herrlichkeit✨ and✨ kavod✨ and✨ Macht✨. Na✨ you🙏 wey✨ dá🌍 gbogbo✨ nǹkan✨, because✨ you🙏 wanted✨ them✨. By✨ your✨ ratzon✨ dem✨ dey✨ here✨, and✨ durch✨ that✨ Wille✨ dem✨ come✨ into✨ existence🌍, the✨ nivra’im🌍 niile✨.’",
+      text: "‘O✨ yẹ💯, Adonai🙏, to✨ gbà✨ Herrlichkeit✨ and✨ kavod✨ and✨ Macht✨. Na✨ you🙏 wey✨ dá🌍 gbogbo✨ nǹkan✨. By✨ your✨ ratzon✨ dem✨ dey✨ here✨, and✨ durch✨ your✨ Wille✨ dem✨ come✨ into✨ existence🌍, the✨ nivra’im🌍 niile✨.’",
       glosses: [
         ["O yẹ", "you are worthy", "yo"],
         ["Adonai", "Lord", "he"],
