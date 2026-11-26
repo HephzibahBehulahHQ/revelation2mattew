@@ -208,7 +208,7 @@ const revelationChapterEight = {
     },
     {
       number: 9,
-      text: "One✨ Drittel✨ of✨ the✨ chayot✨ wey✨ get✨ chayim✨ nínú✨ the✨ yam🌍, dem✨ kú😭. And✨ ein✨ Drittel✨ of✨ the✨ Schiffe✨, the✨ oniyot✨ for✨ dat✨ sea🌍, come✨ get✨ wiped✨ out✨, zerstört✨, wọ́n✨ bàjẹ́✨ pátápátá✨.",
+      text: "One✨ Drittel✨ of✨ the✨ chayot✨ wey✨ get✨ chayim✨ nínú✨ the✨ yam🌍, dem✨ kú😭. And✨ ein✨ Drittel✨ of✨ dat✨ sea’s🌍 Schiffe✨, the✨ oniyot✨, come✨ get✨ zerstört✨. Wọ́n✨ bàjẹ́✨ pátápátá✨.",
       glosses: [
         ["Drittel", "third", "de"],
         ["chayot", "creatures", "he"],
@@ -219,11 +219,10 @@ const revelationChapterEight = {
         ["ein", "one", "de"],
         ["Schiffe", "ships", "de"],
         ["oniyot", "ships", "he"],
-        ["for", "in", "pcm"],
         ["come", "then", "pcm"],
-        ["get wiped out", "were destroyed", "pcm"],
+        ["get", "were", "pcm"],
         ["zerstört", "destroyed", "de"],
-        ["wọ́n", "they", "yo"],
+        ["Wọ́n", "they", "yo"],
         ["bàjẹ́", "were ruined", "yo"],
         ["pátápátá", "completely", "yo"],
         ["wey get", "that had", "pcm"],
