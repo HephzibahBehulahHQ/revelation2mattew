@@ -391,7 +391,7 @@ const revelationChapterEleven = {
     },
     {
       number: 16,
-      text: "The✨ twenty-four✨ zekenim✨ wey✨ dey✨ jókòó✨ auf✨ their✨ Sitzen✨ níwájú✨ Elohim🙏 come✨ fall✨ and✨ ṣubú✨ auf✨ their✨ panim✨ and✨ foríbalẹ̀🙏 fún🙏 Adonai🙏, bowing✨ laag✨ vor✨ Gott🙏.",
+      text: "The✨ twenty-four✨ zekenim✨ wey✨ dey✨ jókòó✨ auf✨ their✨ Sitzen✨ níwájú✨ Elohim🙏, dem✨ come✨ ṣubú✨ auf✨ their✨ panim✨ and✨ foríbalẹ̀🙏 fún🙏 Adonai🙏, bowing✨ laag✨ vor✨ Gott🙏.",
       glosses: [
         ["zekenim", "elders", "he"],
         ["wey", "who", "pcm"],
@@ -409,7 +409,7 @@ const revelationChapterEleven = {
         ["Adonai", "Lord", "he"],
         ["vor", "before", "de"],
         ["Gott", "God", "de"],
-        ["fall", "fell", "pcm"],
+        ["dem", "they", "pcm"],
         ["laag", "low", "nl"],
       ],
     },
