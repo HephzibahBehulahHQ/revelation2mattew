@@ -101,7 +101,7 @@ const revelationChapterThree = {
     },
     {
       number: 5,
-      text: "anybody✨ wey✨ bá✨ ṣẹ́gun💯 go✨ wọ̀✨ weiße✨ Kleider✨. Ani🙏 no✨ go✨ pa✨ their✨ shem✨ rẹ́✨ out✨ of✨ the✨ sefer✨ of✨ chayim✨. Stattdessen✨, I🙏 go✨ call✨ out✨ and✨ sọ✨ orúkọ✨ wọn✨ vor✨ my✨ Baba❤️ and✨ in✨ front✨ of✨ his✨ mal’akhim🕊️.",
+      text: "Anybody✨ wey✨ bá✨ ṣẹ́gun💯 go✨ wọ̀✨ weiße✨ Kleider✨. Ani🙏 no✨ go✨ pa✨ their✨ shem✨ rẹ́✨ out✨ of✨ the✨ sefer✨ of✨ chayim✨. Stattdessen✨, I🙏 go✨ call✨ out✨ and✨ sọ✨ orúkọ✨ wọn✨ vor✨ my✨ Baba❤️ and✨ in✨ front✨ of✨ his✨ mal’akhim🕊️.",
       glosses: [
         ["wey", "who", "pcm"],
         ["bá ṣẹ́gun", "overcomes", "yo"],
@@ -380,11 +380,11 @@ const revelationChapterThree = {
     },
     {
       number: 16,
-      text: "So✨ because✨ you✨ dey✨ lauwarm✨, o✨ ò✨ tutù✨ and✨ o✨ ò✨ gbóná🔥, Ani🙏 go✨ tutọ́✨ ọ́✨ síta✨ aus✨ my✨ peh✨. You✨ no✨ be✨ kar✨ or✨ cham🔥, e✨ na✨ my✨ Mund✨ you✨ dey✨ come✨ out✨ of✨, raus✨.",
+      text: "So✨ you✨ dey✨ lauwarm✨. O✨ ò✨ tutù✨, o✨ ò✨ gbóná🔥. You✨ no✨ be✨ kar✨ or✨ cham🔥, e✨ na✨ why✨ Ani🙏 go✨ tutọ́✨ ọ́✨ síta✨, raus✨ aus✨ my✨ peh✨, my✨ Mund✨.",
       glosses: [
         ["dey", "are", "pcm"],
         ["lauwarm", "lukewarm", "de"],
-        ["o ò tutù", "you are not cold", "yo"],
+        ["O ò tutù", "you are not cold", "yo"],
         ["o ò gbóná", "you are not hot", "yo"],
         ["Ani", "I", "he"],
         ["go", "will", "pcm"],
@@ -398,7 +398,6 @@ const revelationChapterThree = {
         ["cham", "hot", "he"],
         ["na", "it is", "pcm"],
         ["Mund", "mouth", "de"],
-        ["dey come", "are coming", "pcm"],
         ["raus", "out", "de"],
         ["e", "and", "it"],
       ],
