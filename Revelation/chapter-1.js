@@ -4,7 +4,7 @@ const revelationChapterOne = {
   verses: [
     {
       number: 1,
-      text: "Na✨ the✨ Offenbarung✨ of✨ Yeshua🙏 HaMashiach🙏, wey✨ Elohim🙏 fi🫶 fún🫶 him🫶 so✨ he✨ fit✨ show👀 àwọn🫶 ìránṣẹ́🫶 rẹ̀🫶 what👀 must🔥 happen🔥 bald🔥. Ó✨ rán✨ the✨ Botschaft✨ nípasẹ̀✨ his✨ mal’akh🕊️, who✨ made✨ am✨ bekannt✨ to✨ his✨ eved🫶 John🫶.",
+      text: "Na✨ the✨ Offenbarung✨ of✨ Yeshua🙏 HaMashiach🙏, wey✨ Elohim🙏 fi🫶 fún🫶 him🫶 so✨ he✨ fit✨ show👀 àwọn🫶 ìránṣẹ́🫶 rẹ̀🫶 what👀 must🔥 happen🔥 bald🔥. Ó✨ rán✨ the✨ Botschaft✨ nípasẹ̀✨ suo✨ mal’akh🕊️, who✨ made✨ am✨ bekannt✨ to✨ his✨ eved🫶 John🫶.",
       glosses: [
         ["Na", "This is", "pcm"],
         ["Offenbarung", "revelation", "de"],
@@ -22,6 +22,7 @@ const revelationChapterOne = {
         ["Botschaft", "message", "de"],
         ["am", "it", "pcm"],
         ["bekannt", "known", "de"],
+        ["suo", "his", "it"],
       ],
     },
     {
