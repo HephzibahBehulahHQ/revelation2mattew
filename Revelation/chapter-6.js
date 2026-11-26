@@ -426,7 +426,7 @@ const revelationChapterSix = {
     },
     {
       number: 17,
-      text: "Torí✨ the✨ großer🔥 Tag✨ of✨ his✨ chemah🔥 don✨ dé✨, the✨ yom✨ of✨ his✨ Zorn🔥. Ta✨ ló✨ fit✨ dúró✨ jetzt✨? Who✨ go✨ stand✨ in✨ front✨ of✨ that✨ af🔥, who✨ fit✨ stand✨, who✨ be✨ yakhol✨ affatto✨?",
+      text: "Torí✨ the✨ großer🔥 Tag✨ of✨ his✨ chemah🔥 don✨ dé✨, the✨ yom✨ of✨ his✨ Zorn🔥. Ta✨ ló✨ go✨ fit✨ dúró✨ jetzt✨, who✨ be✨ yakhol✨ affatto✨ before✨ that✨ af🔥?",
       glosses: [
         ["Torí", "for or because", "yo"],
         ["großer", "great", "de"],
