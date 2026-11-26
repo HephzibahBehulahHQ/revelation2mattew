@@ -78,7 +78,7 @@ const revelationChapterTwo = {
     },
     {
       number: 4,
-      text: "Aber✨ I✨ get✨ this✨ gegen✨ you✨: the✨ first✨ ahavah❤️ wey✨ o✨ ní❤️ ní✨ ìbẹ̀rẹ̀✨, o✨ ti✨ fi✨ sílẹ̀😭. Na✨ that✨ erste✨ lev❤️ for✨ me✨ you✨ don✨ walk✨ away✨ de✨, leider😭, azavta😭 the✨ love❤️ you✨ had✨ rishonah❤️.",
+      text: "Aber✨ I✨ get✨ this✨ gegen✨ you✨, and✨ na✨ here✨ the✨ issue✨ dey✨: o✨ ti✨ fi✨ sílẹ̀😭 the✨ ahavah❤️ wey✨ o✨ ní❤️ ní✨ ìbẹ̀rẹ̀✨. Leider😭, azavta😭 the✨ rishonah❤️ love❤️ of✨ your✨ lev❤️, your✨ erste✨ love❤️.",
       glosses: [
         ["Aber", "but", "de"],
         ["get", "have", "pcm"],
@@ -89,14 +89,13 @@ const revelationChapterTwo = {
         ["ní", "in", "yo"],
         ["ìbẹ̀rẹ̀", "the beginning", "yo"],
         ["o ti fi sílẹ̀", "you left it behind", "yo"],
-        ["Na", "It is", "pcm"],
+        ["na", "It is", "pcm"],
         ["erste", "first", "de"],
         ["lev", "heart", "he"],
-        ["don", "have", "pcm"],
-        ["leider", "sadly", "de"],
+        ["Leider", "sadly", "de"],
         ["azavta", "you left", "he"],
         ["rishonah", "first", "he"],
-        ["de", "from", "pt"],
+        ["dey", "is", "pcm"],
       ],
     },
     {
@@ -489,7 +488,7 @@ const revelationChapterTwo = {
     },
     {
       number: 21,
-      text: "Mo✨ fún✨ un✨ ní✨ zman✨ so✨ shi✨ fit✨ turn✨ kúrò✨ nínú✨ her✨ zenut😭 and✨ make✨ teshuvah🙏. Doch✨ Sie✨ no✨ turn✨ um✨. From✨ that✨ chet😭, she✨ no✨ comot✨ am✨ überhaupt✨.",
+      text: "Mo✨ fún✨ un✨ ní✨ zman✨ so✨ shi✨ fit✨ turn✨ kúrò✨ nínú✨ her✨ zenut😭 and✨ make✨ teshuvah🙏. Doch✨ Sie✨ no✨ turn✨ um✨. She✨ no✨ comot✨ from✨ that✨ chet😭 at✨ all✨, überhaupt✨.",
       glosses: [
         ["Mo", "I", "yo"],
         ["fún un", "gave her", "yo"],
@@ -506,9 +505,9 @@ const revelationChapterTwo = {
         ["Sie", "she", "de"],
         ["chet", "sin", "he"],
         ["comot", "leave", "pcm"],
-        ["am", "it", "pcm"],
         ["überhaupt", "at all", "de"],
         ["shi", "she", "jam"],
+        ["from", "away from", "pcm"],
       ],
     },
     {
@@ -655,7 +654,7 @@ const revelationChapterTwo = {
     },
     {
       number: 28,
-      text: "Und✨ Ani🙏 too✨ go✨ give✨ am✨ the✨ Stern✨ of✨ boker✨, ìràwọ̀✨ òwúrọ̀✨. Den✨ Morgenstern✨, na✨ the✨ kokhav✨ tí✨ mo✨ máa✨ fún✨ un✨ the✨ star✨ of✨ shachar✨.",
+      text: "Und✨ Ani🙏 too✨ go✨ fún✨ un✨ the✨ Stern✨ of✨ boker✨, the✨ ìràwọ̀✨ òwúrọ̀✨. Na✨ den✨ Morgenstern✨ I🙏 go✨ give✨ am✨, the✨ kokhav✨ of✨ shachar✨ tí✨ mo✨ máa✨ give✨.",
       glosses: [
         ["Und", "and", "de"],
         ["Ani", "I", "he"],
@@ -666,14 +665,14 @@ const revelationChapterTwo = {
         ["boker", "morning", "he"],
         ["ìràwọ̀", "star", "yo"],
         ["òwúrọ̀", "morning", "yo"],
-        ["Den", "the", "de"],
         ["Morgenstern", "morning star", "de"],
-        ["na", "it is", "pcm"],
+        ["Na", "it is", "pcm"],
         ["kokhav", "star", "he"],
         ["tí", "that", "yo"],
         ["mo máa", "I will", "yo"],
         ["fún un", "give him", "yo"],
         ["shachar", "dawn", "he"],
+        ["den", "the", "de"],
       ],
     },
     {
