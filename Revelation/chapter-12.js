@@ -272,7 +272,7 @@ const revelationChapterTwelve = {
     },
     {
       number: 11,
-      text: "Dem✨ come✨ ṣẹ́gun💯 am✨ durch✨ the✨ dam❤️ of✨ the✨ Lamm🕊️ and✨ durch✨ the✨ davar✨ of✨ their✨ edut💯. Wọ́n✨ ò✨ nífẹ̀ẹ́✨ their✨ chayim✨ that✨ way✨, even✨ bí✨ dem✨ face✨ ikú😭. No✨ be✨ ìyè✨ dem✨ dey✨ cling✨ to✨ bis✨ zum✨ Tod✨.",
+      text: "Dem✨ come✨ ṣẹ́gun💯 am✨ durch✨ the✨ dam❤️ of✨ the✨ Lamm🕊️ and✨ durch✨ the✨ davar✨ of✨ their✨ edut💯. Wọ́n✨ ò✨ nífẹ̀ẹ́✨ their✨ chayim✨ so✨ much✨ that✨ dem✨ dey✨ cling✨ to✨ ìyè✨ even✨ bí✨ dem✨ face✨ ikú😭, even✨ bis✨ zum✨ Tod✨.",
       glosses: [
         ["Dem", "They", "pcm"],
         ["come", "then", "pcm"],
@@ -291,7 +291,6 @@ const revelationChapterTwelve = {
         ["Tod", "death", "de"],
         ["bí", "when or as", "yo"],
         ["ikú", "death", "yo"],
-        ["No be", "it was not", "pcm"],
         ["dey cling", "were clinging", "pcm"],
       ],
     },
