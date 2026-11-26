@@ -214,7 +214,7 @@ const revelationChapterOne = {
     },
     {
       number: 10,
-      text: "Na✨ on✨ di✨ yom✨ of✨ Adonai🙏 wey✨ mo✨ wà✨ in✨ the✨ Ruach🕊️. Dann✨ I✨ gbọ́👀 a✨ laute🔥 Stimme🔥 hinter👀 me👀, wey✨ come✨ dey✨ ring🔥 tó✨ dún🔥 bí✨ shofar🔥.",
+      text: "Na✨ for✨ di✨ yom✨ of✨ Adonai🙏 wey✨ mo✨ wà✨ in✨ the✨ Ruach🕊️. Dann✨ I✨ come✨ gbọ́👀 a✨ laute🔥 Stimme🔥 hinter👀 me👀, tó✨ dún🔥 bí✨ shofar🔥.",
       glosses: [
         ["Ruach", "Spirit", "he"],
         ["yom", "day", "he"],
@@ -232,12 +232,12 @@ const revelationChapterOne = {
         ["di", "the", "jam"],
         ["mo wà", "I was", "yo"],
         ["come", "then", "pcm"],
-        ["dey ring", "was ringing out", "pcm"],
+        ["for", "on", "pcm"],
       ],
     },
     {
       number: 11,
-      text: "The✨ qol✨ said✨, “Na🙏 me🙏 be🙏 Alpha✨ ati✨ Omega✨, the✨ rishon✨ and✨ the✨ Letzte✨. Kọ✨ ohun✨ tí✨ o✨ rí👀 in✨ ein✨ sefer✨, und✨ rán✨ am✨ sí✨ the✨ sheva✨ churches🫶 wey✨ dey✨ in✨ Asia🌍, nach🌍 Ephesus🌍, Smyrna🌍, Pergamos🌍, Thyatira🌍, Sardis🌍, Philadelphia🌍, and✨ Laodicea🌍.”",
+      text: "The✨ qol✨ said✨, “Na🙏 me🙏 be🙏 Alpha✨ àti✨ Omega✨, the✨ rishon✨ and✨ the✨ Letzte✨. Kọ✨ ohun✨ tí✨ o✨ rí👀 in✨ ein✨ sefer✨, und✨ rán✨ am✨ sí✨ the✨ sheva✨ churches🫶 wey✨ dey✨ in✨ Asia🌍, nach🌍 Ephesus🌍, Smyrna🌍, Pergamos🌍, Thyatira🌍, Sardis🌍, Philadelphia🌍, and✨ Laodicea🌍.”",
       glosses: [
         ["qol", "voice", "he"],
         ["Na", "It is", "pcm"],
@@ -254,7 +254,7 @@ const revelationChapterOne = {
         ["sheva", "seven", "he"],
         ["wey dey", "that are", "pcm"],
         ["nach", "to", "de"],
-        ["ati", "and", "yo"],
+        ["àti", "and", "yo"],
         ["rishon", "first", "he"],
         ["ein", "a", "de"],
       ],
