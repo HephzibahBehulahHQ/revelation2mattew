@@ -383,7 +383,7 @@ const revelationChapterNine = {
     },
     {
       number: 16,
-      text: "Mo✨ come✨ gbọ́👀 the✨ Zahl✨ of✨ the✨ chayil✨ of✨ rokhevim✨ on✨ susim✨. Their✨ mispar✨ na✨ 200,000,000✨. Na✨ iye✨ wọn✨ náà✨ I✨ hear👀, zweihundert✨ Millionen✨, genau✨ bí✨ mo✨ ṣe✨ gbọ́👀 ọ́✨.",
+      text: "Mo✨ come✨ gbọ́👀 the✨ Zahl✨ of✨ the✨ chayil✨ of✨ rokhevim✨ on✨ susim✨. Their✨ mispar✨ na✨ 200,000,000✨, zweihundert✨ Millionen✨. Na✨ iye✨ wọn✨ náà✨ I✨ hear👀, genau✨ bí✨ mo✨ ṣe✨ gbọ́👀 ọ́✨.",
       glosses: [
         ["Mo", "I", "yo"],
         ["come", "then", "pcm"],
