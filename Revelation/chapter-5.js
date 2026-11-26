@@ -267,7 +267,7 @@ const revelationChapterFive = {
     },
     {
       number: 11,
-      text: "Mo✨ wò👀 and✨ come✨ gbọ́👀 the✨ qol✨ of✨ plenty💯 mal’akhim🕊️ wey✨ dey✨ ringsum✨ the✨ kise✨, the✨ chayot✨ et✨ the✨ zekenim✨ kwa✨. The✨ Zahl✨ of✨ dem✨ was✨ ẹgbẹ̀rún✨ mẹ́wàá✨ mal✨ ẹgbẹ̀rún✨ mẹ́wàá✨, and✨ ẹgbẹ̀rún✨ lórí✨ ẹgbẹ̀rún✨, Tausende✨ upon✨ thousands✨.",
+      text: "Mo✨ wò👀 and✨ come✨ gbọ́👀 the✨ qol✨ of✨ plenty💯 mal’akhim🕊️ wey✨ dey✨ ringsum✨ the✨ kise✨, the✨ chayot✨ et✨ the✨ zekenim✨ kwa✨. The✨ Zahl✨ of✨ dem✨ was✨ ẹgbẹ̀rún✨ mẹ́wàá✨ mal✨ ẹgbẹ̀rún✨ mẹ́wàá✨, and✨ Tausende✨ lórí✨ ẹgbẹ̀rún✨.",
       glosses: [
         ["Mo wò", "I looked", "yo"],
         ["come", "then", "pcm"],
