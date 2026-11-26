@@ -111,7 +111,7 @@ const revelationChapterSeven = {
     },
     {
       number: 5,
-      text: "Aus✨ the✨ Stamm✨ of✨ Judah✨, na✨ shneim✨ asar✨ elef✨ dem✨ seal✨. Láti✨ the✨ shevet✨ of✨ Reuben✨, wọ́n✨ fi✨ the✨ chotam✨ sí✨ 12,000✨. The✨ ẹ̀yà✨ of✨ Gad✨ get✨ 12,000✨ sealed✨ aussi✨, ebenfalls✨ besiegelt✨.",
+      text: "Aus✨ the✨ Stamm✨ of✨ Judah✨, na✨ shneim✨ asar✨ elef✨ Leute✨ dem✨ seal✨. Láti✨ the✨ shevet✨ of✨ Reuben✨, wọ́n✨ fi✨ the✨ chotam✨ sí✨ 12,000✨. The✨ ẹ̀yà✨ of✨ Gad✨ get✨ 12,000✨ sealed✨ aussi✨ and✨ besiegelt✨.",
       glosses: [
         ["Aus", "from", "de"],
         ["Stamm", "tribe", "de"],
@@ -128,14 +128,14 @@ const revelationChapterSeven = {
         ["sí", "on", "yo"],
         ["ẹ̀yà", "tribe", "yo"],
         ["get", "had", "pcm"],
-        ["ebenfalls", "also", "de"],
+        ["Leute", "people", "de"],
         ["besiegelt", "sealed", "de"],
         ["aussi", "too", "fr"],
       ],
     },
     {
       number: 6,
-      text: "Aus✨ the✨ Stamm✨ of✨ Asher✨, na✨ shneim✨ asar✨ elef✨ dem✨ seal✨. Láti✨ the✨ shevet✨ of✨ Naphtali✨, wọ́n✨ fi✨ the✨ chotam✨ sí✨ 12,000✨. The✨ ẹ̀yà✨ of✨ Manasseh✨ get✨ 12,000✨ sealed✨ kwa✨, ebenfalls✨ besiegelt✨.",
+      text: "Aus✨ the✨ Stamm✨ of✨ Asher✨, na✨ shneim✨ asar✨ elef✨ Leute✨ dem✨ seal✨. Láti✨ the✨ shevet✨ of✨ Naphtali✨, wọ́n✨ fi✨ the✨ chotam✨ sí✨ 12,000✨. The✨ ẹ̀yà✨ of✨ Manasseh✨ get✨ 12,000✨ sealed✨ kwa✨ and✨ besiegelt✨.",
       glosses: [
         ["Aus", "from", "de"],
         ["Stamm", "tribe", "de"],
@@ -152,14 +152,14 @@ const revelationChapterSeven = {
         ["sí", "on", "yo"],
         ["ẹ̀yà", "tribe", "yo"],
         ["get", "had", "pcm"],
-        ["ebenfalls", "also", "de"],
+        ["Leute", "people", "de"],
         ["besiegelt", "sealed", "de"],
         ["kwa", "too", "ig"],
       ],
     },
     {
       number: 7,
-      text: "Aus✨ the✨ Stamm✨ of✨ Simeon✨, na✨ shneim✨ asar✨ elef✨ dem✨ seal✨. Láti✨ the✨ shevet✨ of✨ Levi✨, wọ́n✨ fi✨ the✨ chotam✨ sí✨ 12,000✨. The✨ ẹ̀yà✨ of✨ Issachar✨ get✨ 12,000✨ sealed✨ juga✨, ebenfalls✨ besiegelt✨.",
+      text: "Aus✨ the✨ Stamm✨ of✨ Simeon✨, na✨ shneim✨ asar✨ elef✨ Leute✨ dem✨ seal✨. Láti✨ the✨ shevet✨ of✨ Levi✨, wọ́n✨ fi✨ the✨ chotam✨ sí✨ 12,000✨. The✨ ẹ̀yà✨ of✨ Issachar✨ get✨ 12,000✨ sealed✨ juga✨ and✨ besiegelt✨.",
       glosses: [
         ["Aus", "from", "de"],
         ["Stamm", "tribe", "de"],
@@ -176,14 +176,14 @@ const revelationChapterSeven = {
         ["sí", "on", "yo"],
         ["ẹ̀yà", "tribe", "yo"],
         ["get", "had", "pcm"],
-        ["ebenfalls", "also", "de"],
+        ["Leute", "people", "de"],
         ["besiegelt", "sealed", "de"],
         ["juga", "also", "id"],
       ],
     },
     {
       number: 8,
-      text: "Aus✨ the✨ Stamm✨ of✨ Zebulun✨, na✨ shneim✨ asar✨ elef✨ dem✨ seal✨. Láti✨ the✨ shevet✨ of✨ Joseph✨, wọ́n✨ fi✨ the✨ chotam✨ sí✨ 12,000✨. The✨ ẹ̀yà✨ of✨ Benjamin✨ get✨ 12,000✨ sealed✨ también✨, ebenfalls✨ besiegelt✨.",
+      text: "Aus✨ the✨ Stamm✨ of✨ Zebulun✨, na✨ shneim✨ asar✨ elef✨ Leute✨ dem✨ seal✨. Láti✨ the✨ shevet✨ of✨ Joseph✨, wọ́n✨ fi✨ the✨ chotam✨ sí✨ 12,000✨. The✨ ẹ̀yà✨ of✨ Benjamin✨ get✨ 12,000✨ sealed✨ también✨ and✨ besiegelt✨.",
       glosses: [
         ["Aus", "from", "de"],
         ["Stamm", "tribe", "de"],
@@ -200,7 +200,7 @@ const revelationChapterSeven = {
         ["sí", "on", "yo"],
         ["ẹ̀yà", "tribe", "yo"],
         ["get", "had", "pcm"],
-        ["ebenfalls", "also", "de"],
+        ["Leute", "people", "de"],
         ["besiegelt", "sealed", "de"],
         ["también", "too", "es"],
       ],
@@ -418,7 +418,7 @@ const revelationChapterSeven = {
     },
     {
       number: 17,
-      text: "Torí✨ the✨ Lamm🕊️ láàárín✨ the✨ kise✨ go✨ feed✨ dem✨ like✨ a✨ ro’eh🫶, and✨ E🙏 go✨ darí✨ wọn✨ sí✨ Quellen✨ of✨ mayim✨ chayim✨, lebendiges✨ Wasser✨. Elohim🙏 go✨ nu✨ every💯 dim’ah😭 kúrò✨ ní✨ their✨ ojú👀, jede💯 single💯 hawaye😭.",
+      text: "Torí✨ the✨ Lamm🕊️ láàárín✨ the✨ kise✨ go✨ feed✨ dem✨ like✨ a✨ ro’eh🫶, and✨ E🙏 go✨ darí✨ wọn✨ sí✨ Quellen✨ of✨ mayim✨ chayim✨, lebendiges✨ Wasser✨. Elohim🙏 go✨ nu✨ duk💯 dim’ah😭 kúrò✨ ní✨ their✨ ojú👀, jede💯 single💯 tear😭.",
       glosses: [
         ["Torí", "for", "yo"],
         ["Lamm", "Lamb", "de"],
@@ -443,7 +443,7 @@ const revelationChapterSeven = {
         ["kúrò ní", "away from", "yo"],
         ["ojú", "eyes", "yo"],
         ["jede", "every", "de"],
-        ["hawaye", "tear", "ha"],
+        ["duk", "every", "ha"],
       ],
     },
   ],
