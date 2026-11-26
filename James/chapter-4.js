@@ -4,10 +4,10 @@ const jamesChapterFour = {
   verses: [
     {
       number: 1,
-      text: "Wetin✨ dey✨ causing✨ milchamot🔥 and✨ rivim✨ láàárín✨ yín✨? No✨ be✨ your✨ own✨ ta’avot✨ wey✨ ń✨ jagun🔥 nínú✨ you✨? Those✨ Begierden🌍 kämpfen🔥 in✨ the✨ parts✨ ti✨ your✨ guf✨. That✨ Streit✨ drinnen✨ you✨ is✨ where✨ the✨ fights🔥 come✨ from✨ tout✨ au✨ fond✨.",
+      text: "Wetin✨ dey✨ spark🔥 milchamot🔥 and✨ rivim✨ láàárín✨ yín✨? No✨ be✨ your✨ own✨ ta’avot✨ wey✨ ń✨ jagun🔥 nínú✨ you✨? Those✨ Begierden🔥 kämpfen🔥 throughout✨ the✨ parts✨ ti✨ your✨ guf✨. That✨ Streit🔥 drinnen✨ is✨ where✨ the✨ fights🔥 come✨ from✨ tout✨ au✨ fond✨.",
       glosses: [
         ["Wetin", "What", "pcm"],
-        ["dey", "keeps", "pcm"],
+        ["dey", "is", "pcm"],
         ["milchamot", "wars", "he"],
         ["rivim", "quarrels", "he"],
         ["láàárín yín", "among you", "yo"],
@@ -27,7 +27,7 @@ const jamesChapterFour = {
     },
     {
       number: 2,
-      text: "Una✨ dey✨ fẹ́✨ things✨ wey✨ una✨ no✨ get✨. You✨ pa✨ and✨ ṣe✨ ojúkòkòrò✨, yet✨ una✨ no✨ fit✨ rí✨ what✨ you✨ want✨. You✨ streitet🔥 and✨ wage✨ milchamah🔥. Na✨ because✨ you✨ bittet✨ nicht✨ that✨ you✨ still✨ have✨ no✨ matanah✨. You✨ kämpft✨ for✨ what✨ your✨ lev✨ ń✨ fẹ́✨, still✨ without✨ what✨ you✨ could✨ have✨ made✨ a✨ bakashah✨ for✨ at✨ aal✨.",
+      text: "Una✨ dey✨ fẹ́✨ things✨ wey✨ una✨ no✨ get✨. You✨ pa✨ and✨ ṣe✨ ojúkòkòrò✨, yet✨ una✨ no✨ fit✨ rí✨ what✨ you✨ want✨. You✨ all✨ streitet🔥 and✨ wage✨ milchamah🔥. Na✨ because✨ you✨ bittet✨ nicht✨ that✨ you✨ still✨ come✨ up✨ empty✨, with✨ no✨ matanah✨. You✨ kämpft✨ for✨ what✨ your✨ lev✨ ń✨ fẹ́✨, still✨ without✨ what✨ you✨ could✨ have✨ made✨ a✨ bakashah✨ for✨ at✨ aal✨.",
       glosses: [
         ["Una dey", "You all keep", "pcm"],
         ["fẹ́", "wanting", "yo"],
@@ -51,7 +51,7 @@ const jamesChapterFour = {
     },
     {
       number: 3,
-      text: "Una✨ still✨ dey✨ béèrè✨, but✨ una✨ no✨ dey✨ gba✨ anything✨. Na✨ because✨ una✨ dey✨ ask✨ falsch✨. The✨ bakashot✨ come✨ from✨ kavanot✨ tó✨ aim✨ láti✨ spend✨ what✨ you✨ get✨ lórí✨ your✨ ta’avot✨. You✨ want✨ to✨ verbrauchen✨ the✨ matanah✨ for✨ your✨ own✨ Vergnügen✨, on✨ what✨ you✨ begehrt✨ don✨ kanku✨.",
+      text: "Una✨ still✨ dey✨ béèrè✨, but✨ una✨ no✨ dey✨ gba✨ anything✨. Na✨ because✨ una✨ dey✨ ask✨ falsch✨. The✨ bakashot✨ come✨ from✨ kavanot✨ tó✨ aim✨ láti✨ spend✨ what✨ you✨ get✨ lórí✨ your✨ ta’avot✨. You✨ want✨ to✨ verbrauchen✨ the✨ matanah✨ for✨ your✨ own✨ Vergnügen✨, on✨ the✨ stuff✨ you✨ crave🔥, heiß✨ begehrt✨, don✨ kanku✨.",
       glosses: [
         ["Una still dey", "You all keep", "pcm"],
         ["béèrè", "asking", "yo"],
@@ -69,7 +69,7 @@ const jamesChapterFour = {
         ["verbrauchen", "use up", "de"],
         ["matanah", "gift", "he"],
         ["Vergnügen", "pleasures", "de"],
-        ["begehrt", "desire", "de"],
+        ["heiß begehrt", "much desired", "de"],
         ["don kanku", "for yourselves", "ha"],
       ],
     },
@@ -327,7 +327,7 @@ const jamesChapterFour = {
     },
     {
       number: 15,
-      text: "Here's✨ what✨ una✨ suppose✨ talk✨: “Si✨ el✨ Señor✨ quiere✨, wenn✨ der✨ Herr✨ will✨, if✨ the✨ Adon🙏 yirtzeh🙏, we✨ go✨ live✨. A✨ ó✨ wà✨ láàyè✨, wir✨ werden✨ leben✨, nichyeh✨. And✨ we✨ go✨ do✨ dies✨ oder✨ das✨, èyí✨ tàbí✨ ìyẹn✨. What✨ na’aseh✨, èyí✨ or✨ ìyẹn✨, depends✨ on✨ him🙏, je✨ nachdem✨, as✨ e✨ want✨ am✨.”",
+      text: "Here's✨ what✨ una✨ suppose✨ talk✨: “Si✨ el✨ Señor✨ quiere✨, wenn✨ der✨ Herr✨ will✨, if✨ the✨ Adon🙏 yirtzeh🙏, we✨ go✨ live✨. A✨ ó✨ wà✨ láàyè✨, wir✨ werden✨ leben✨, nichyeh✨. And✨ we✨ go✨ do✨ dies✨ oder✨ das✨, èyí✨ tàbí✨ ìyẹn✨. Whether✨ na’aseh✨ èyí✨ or✨ ìyẹn✨ depends✨ on✨ him🙏, je✨ nachdem✨, as✨ e✨ want✨ am✨.”",
       glosses: [
         ["una suppose talk", "you ought to say", "pcm"],
         ["Si el Señor quiere", "If the Lord wills", "es"],
