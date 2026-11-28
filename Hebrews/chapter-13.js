@@ -118,7 +118,7 @@ const hebrewsChapterThirteen = {
     },
     {
       number: 6,
-      text: "So✨ we✨ fit✨ talk✨, with✨ bitachon✨, ìgboyà✨, mit✨ Zuversicht✨: “Na✨ the✨ Lord🙏, the✨ Adon🙏, Olúwa✨, der✨ Herr✨, wey✨ dey✨ help✨ me✨, my✨ ozer✨, olùrànlọ́wọ́✨ mi✨, mein✨ Helfer✨. I✨ no✨ go✨ fear✨, lo✨ ira✨, mi✨ ò✨ ní✨ bẹ̀rù✨, ich✨ fürchte✨ mich✨ nicht✨ of✨ what✨ people✨ can✨ do✨ to✨ me✨, ce✨ que✨ les✨ humains✨ peuvent✨ me✨ faire✨.”",
+      text: "So✨ we✨ fit✨ talk✨, with✨ bitachon✨, ìgboyà✨, mit✨ Zuversicht✨: “Na✨ the✨ Lord🙏, the✨ Adon🙏, Olúwa✨, der✨ Herr✨, wey✨ dey✨ help✨ me✨, my✨ ozer✨, olùrànlọ́wọ́✨ mi✨, mein✨ Helfer✨. I✨ no✨ go✨ fear✨, lo✨ ira✨, mi✨ ò✨ ní✨ bẹ̀rù✨, ich✨ fürchte✨ mich✨ nicht✨. What✨ can✨ people✨ do✨ to✨ me✨, ce✨ que✨ les✨ humains✨ peuvent✨ me✨ faire✨?”",
       glosses: [
         ["we fit talk", "we can say", "pcm"],
         ["bitachon", "confidence", "he"],
