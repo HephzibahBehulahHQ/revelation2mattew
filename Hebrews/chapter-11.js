@@ -118,7 +118,7 @@ const hebrewsChapterEleven = {
     },
     {
       number: 6,
-      text: "But✨ if✨ faith✨ no✨ dey✨, without✨ emunah✨, láìsí✨ ìgbàgbọ́✨, ohne✨ Glauben✨, e✨ no✨ possible✨ ihm✨ zu✨ gefallen✨. Anybody✨ wey✨ come✨ near✨ to✨ Elohim🙏, Ọlọ́run✨, zu✨ Gott✨ kommt✨, must✨ believe✨ say✨ he✨ exists✨, kayyam✨, ó✨ wà✨. And✨ God🙏 gives✨ a✨ sakhar✨ to✨ those✨ who✨ ń✨ wá✨ a✨ tọkàntọkàn✨, die✨ ihn✨ ernsthaft✨ suchen✨, ceux✨ qui✨ le✨ cherchent✨.",
+      text: "But✨ if✨ faith✨ no✨ dey✨, without✨ emunah✨, láìsí✨ ìgbàgbọ́✨, ohne✨ Glauben✨, e✨ no✨ possible✨ ihm✨ zu✨ gefallen✨. Anybody✨ wey✨ come✨ near✨ to✨ Elohim🙏, Ọlọ́run✨, zu✨ Gott✨ kommt✨, must✨ believe✨ say✨ he✨ exists✨, kayyam✨, ó✨ wà✨. And✨ God🙏 gives✨ a✨ sakhar✨, a✨ reward✨, to✨ those✨ who✨ ń✨ wá✨ a✨ tọkàntọkàn✨, die✨ ihn✨ ernsthaft✨ suchen✨, ceux✨ qui✨ le✨ cherchent✨.",
       glosses: [
         ["if faith no dey", "without faith", "pcm"],
         ["emunah", "faith", "he"],
@@ -141,7 +141,7 @@ const hebrewsChapterEleven = {
     },
     {
       number: 7,
-      text: "Na✨ by✨ faith✨ that✨ Noah✨, Noach✨, took✨ God’s🙏 warning✨ seriously✨. God🙏 warned✨ him✨ vor✨ noch✨ unsichtbaren✨ Dingen✨, nípa✨ ohun✨ tí✨ a✨ kò✨ tíì✨ rí✨. E✨ take✨ am✨ with✨ reverence✨, with✨ yir’ah✨, ìbẹ̀rù✨, and✨ e✨ build✨ a✨ tevah✨, ọkọ̀✨ ńlá✨, eine✨ Arche✨, zur✨ Rettung✨ seiner✨ Familie✨. Through✨ that✨ faith✨ e✨ condemn✨ the✨ world✨ and✨ became✨ yoresh✨ of✨ òdodo✨, Erbe✨ der✨ Gerechtigkeit✨ that✨ comes✨ through✨ faith✨, ta✨ wurin✨ bangaskiya✨.",
+      text: "Na✨ by✨ faith✨ that✨ Noah✨, Noach✨, took✨ God’s🙏 warning✨ seriously✨. God🙏 warned✨ him✨ vor✨ noch✨ unsichtbaren✨ Dingen✨, nípa✨ ohun✨ tí✨ a✨ kò✨ tíì✨ rí✨. E✨ take✨ am✨ with✨ reverence✨, with✨ yir’ah✨, ìbẹ̀rù✨, and✨ e✨ build✨ a✨ tevah✨, ọkọ̀✨ ńlá✨, eine✨ Arche✨, to✨ get✨ his✨ family✨ out✨ alive✨, zur✨ Rettung✨ seiner✨ Familie✨. Through✨ that✨ faith✨ e✨ condemn✨ the✨ world✨ and✨ became✨ yoresh✨ of✨ òdodo✨, Erbe✨ der✨ Gerechtigkeit✨ that✨ comes✨ through✨ faith✨, ta✨ wurin✨ bangaskiya✨.",
       glosses: [
         ["Na by faith", "It was by faith", "pcm"],
         ["Noach", "Noah", "he"],
@@ -164,7 +164,7 @@ const hebrewsChapterEleven = {
     },
     {
       number: 8,
-      text: "Na✨ by✨ faith✨ that✨ Avraham✨ heard✨ the✨ ìpè✨, als✨ er✨ gerufen✨ wurde✨, and✨ e✨ answer✨ the✨ call✨, er✨ gehorchte✨, ó✨ ṣègbọràn✨. E✨ comot✨ for✨ the✨ makom✨, ibi✨, an✨ den✨ Ort✨ he✨ would✨ later✨ collect✨ as✨ inheritance✨, the✨ nachalah✨, ogún✨. He✨ went✨ without✨ knowing✨ le’an✨, ohne✨ zu✨ wissen✨ wohin✨ he✨ was✨ going✨.",
+      text: "Na✨ by✨ faith✨ that✨ Avraham✨ heard✨ the✨ ìpè✨, als✨ er✨ gerufen✨ wurde✨, and✨ e✨ answer✨ the✨ call✨, er✨ gehorchte✨, ó✨ ṣègbọràn✨. E✨ comot✨, heading✨ toward✨ the✨ makom✨, ibi✨, an✨ den✨ Ort✨ he✨ would✨ later✨ collect✨ as✨ inheritance✨, the✨ nachalah✨, ogún✨. He✨ went✨ without✨ knowing✨ le’an✨, ohne✨ zu✨ wissen✨ wohin✨ he✨ was✨ going✨.",
       glosses: [
         ["Na by faith", "It was by faith", "pcm"],
         ["Avraham", "Abraham", "he"],
@@ -480,7 +480,7 @@ const hebrewsChapterEleven = {
     },
     {
       number: 22,
-      text: "Na✨ by✨ faith✨ that✨ Yosef✨, Jósẹ́fù✨, as✨ e✨ reach✨ im✨ last✨ moments✨, als✨ er✨ dem✨ Tod✨ nahe✨ war✨, nígbà✨ tó✨ ń✨ kú✨, talk✨ about✨ the✨ yetzi’ah✨, ìjádelọ✨, den✨ Auszug✨ of✨ the✨ children✨ of✨ Yisrael✨, der✨ Israeliten✨. E✨ give✨ instructions✨ about✨ his✨ atzamot✨, egungun✨ rẹ̀✨, über✨ seine✨ Gebeine✨.",
+      text: "Na✨ by✨ faith✨ that✨ Yosef✨, Jósẹ́fù✨, as✨ e✨ reach✨ im✨ last✨ moments✨, als✨ er✨ dem✨ Tod✨ nahe✨ war✨, nígbà✨ tó✨ ń✨ kú✨, talk✨ about✨ the✨ yetzi’ah✨, ìjádelọ✨, den✨ Auszug✨ of✨ the✨ children✨ of✨ Yisrael✨, der✨ Israeliten✨. E✨ tell✨ dem✨ wetin✨ to✨ do✨ with✨ his✨ atzamot✨, egungun✨ rẹ̀✨, über✨ seine✨ Gebeine✨.",
       glosses: [
         ["Na by faith", "It was by faith", "pcm"],
         ["Yosef", "Joseph", "he"],
@@ -494,7 +494,7 @@ const hebrewsChapterEleven = {
         ["den Auszug", "the departure", "de"],
         ["Yisrael", "Israel", "he"],
         ["der Israeliten", "of the Israelites", "de"],
-        ["E give instructions", "He gave instructions", "pcm"],
+        ["E tell dem wetin to do", "He told them what to do", "pcm"],
         ["atzamot", "bones", "he"],
         ["egungun rẹ̀", "his bones", "yo"],
         ["über seine Gebeine", "about his bones", "de"],
@@ -771,7 +771,7 @@ const hebrewsChapterEleven = {
     },
     {
       number: 35,
-      text: "Women✨ get✨ dem✨ back✨, their✨ metim✨, àwọn✨ òkú✨ wọn✨, ihre✨ Toten✨, raised✨ to✨ chayim✨, sí✨ ìyè✨, zum✨ Leben✨ erweckt✨. Others✨ suffer✨ torture✨, wurden✨ gefoltert✨, a✨ dá✨ wọn✨ lóró✨, but✨ dem✨ no✨ take✨ shichrur✨, ìtúsílẹ̀✨, die✨ Freilassung✨. Na✨ so✨ dem✨ fit✨ get✨ a✨ better✨ techiyah✨, eine✨ bessere✨ Auferstehung✨, une✨ meilleure✨ résurrection✨.",
+      text: "Women✨ get✨ dem✨ back✨, their✨ loved✨ ones✨, their✨ metim✨, àwọn✨ òkú✨ wọn✨, ihre✨ Toten✨, raised✨ to✨ chayim✨, sí✨ ìyè✨, zum✨ Leben✨ erweckt✨. Others✨ suffer✨ torture✨, wurden✨ gefoltert✨, a✨ dá✨ wọn✨ lóró✨, but✨ dem✨ no✨ take✨ shichrur✨, ìtúsílẹ̀✨, die✨ Freilassung✨. Na✨ so✨ dem✨ fit✨ get✨ a✨ better✨ techiyah✨, eine✨ bessere✨ Auferstehung✨, une✨ meilleure✨ résurrection✨.",
       glosses: [
         ["Women get dem back", "Women received them back", "pcm"],
         ["metim", "dead", "he"],
