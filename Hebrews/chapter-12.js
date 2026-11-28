@@ -4,7 +4,7 @@ const hebrewsChapterTwelve = {
   verses: [
     {
       number: 1,
-      text: "Fam✨, see👀 as✨ dem✨ surround✨ us✨, this✨ huge✨ anan✨ of✨ edim✨, àwọn✨ ẹlẹ́rìí✨, eine✨ Wolke✨ von✨ Zeugen✨. Make✨ we✨ drop✨ every✨ massa✨, ẹrù✨, jede✨ Last✨, and✨ the✨ chet✨, ẹ̀ṣẹ̀✨ wey✨ dey✨ catch✨ us✨ easy✨, die✨ uns✨ so✨ leicht✨ umstrickt✨. Make✨ we✨ run✨ with✨ sùúrù✨, mit✨ Ausdauer✨, the✨ race✨ laid✨ out✨ níwájú✨ wa✨.",
+      text: "Fam✨, see👀 as✨ dem✨ surround✨ us✨, this✨ huge✨ anan✨ of✨ edim✨, àwọn✨ ẹlẹ́rìí✨, eine✨ Wolke✨ von✨ Zeugen✨. Make✨ we✨ drop✨ every✨ massa✨, ẹrù✨, jede✨ Last✨, and✨ the✨ chet✨, ẹ̀ṣẹ̀✨ wey✨ dey✨ catch✨ us✨ easy✨, die✨ uns✨ so✨ leicht✨ umstrickt✨. Make✨ we✨ run✨ with✨ sùúrù✨, mit✨ Ausdauer✨, the✨ race✨ laid✨ out✨ níwájú✨ wa✨. Keep✨ going✨.",
       glosses: [
         ["see as dem surround us", "look how they surround us", "pcm"],
         ["anan", "cloud", "he"],
@@ -27,7 +27,7 @@ const hebrewsChapterTwelve = {
     },
     {
       number: 2,
-      text: "Make✨ we✨ keep✨ eye✨ on✨ Yeshua✨, Jésù✨, the✨ one✨ wey✨ start✨ and✨ wey✨ finish✨ our✨ emunah✨, ìgbàgbọ́✨, unseren✨ Glauben✨, Anfänger✨ und✨ Vollender✨. For✨ the✨ simchah✨, ayọ̀✨, set✨ before✨ him✨, e✨ endure✨ the✨ tzelav✨, àgbélébùú✨, ertrug✨ das✨ Kreuz✨. He✨ scorned✨ its✨ shame✨, achtete✨ die✨ Schande✨ gering✨, and✨ sat✨ at✨ the✨ right✨ hand✨ of✨ God’s🙏 throne✨, à✨ la✨ droite✨ du✨ trône✨ de✨ Dieu✨.",
+      text: "Make✨ we✨ keep✨ eye✨ on✨ Yeshua✨, Jésù✨, the✨ one✨ wey✨ start✨ and✨ wey✨ finish✨ our✨ emunah✨, ìgbàgbọ́✨, unseren✨ Glauben✨, Anfänger✨ und✨ Vollender✨. For✨ the✨ simchah✨, ayọ̀✨, set✨ before✨ him✨, e✨ endure✨ the✨ tzelav✨, àgbélébùú✨, ertrug✨ das✨ Kreuz✨. He✨ didn’t✨ let✨ the✨ shame✨ stop✨ him✨, achtete✨ die✨ Schande✨ gering✨, and✨ sat✨ at✨ the✨ right✨ hand✨ of✨ God’s🙏 throne✨, à✨ la✨ droite✨ du✨ trône✨ de✨ Dieu✨.",
       glosses: [
         ["Make we keep eye on", "Let’s keep our eyes on", "pcm"],
         ["Yeshua", "Jesus", "he"],
@@ -50,7 +50,7 @@ const hebrewsChapterTwelve = {
     },
     {
       number: 3,
-      text: "Make✨ una✨ think✨ about✨ am✨, the✨ one✨ wey✨ hold✨ on✨ through✨ that✨ hitnagdut✨, àtakò✨, solchen✨ Widerstand✨ from✨ chot’im✨, àwọn✨ ẹlẹ́ṣẹ̀✨, von✨ Sündern✨. They✨ directed✨ it✨ against✨ him✨, gegen✨ ihn✨. Make✨ una✨ no✨ tire✨, al✨ tit’ayfu✨, ẹ✨ má✨ ṣe✨ rẹ̀✨, damit✨ ihr✨ nicht✨ müde✨ werdet✨. Make✨ una✨ no✨ lose✨ heart✨, ometz✨ lev✨, ẹ✨ má✨ ṣe✨ rẹ̀wẹ̀sì✨, kada✨ ku✨ karaya✨.",
+      text: "Make✨ una✨ think✨ about✨ am✨, the✨ one✨ wey✨ hold✨ on✨ through✨ that✨ hitnagdut✨, àtakò✨, solchen✨ Widerstand✨ from✨ chot’im✨, àwọn✨ ẹlẹ́ṣẹ̀✨, von✨ Sündern✨. They✨ came✨ straight✨ at✨ him✨, gegen✨ ihn✨. Make✨ una✨ no✨ tire✨, al✨ tit’ayfu✨, ẹ✨ má✨ ṣe✨ rẹ̀✨, damit✨ ihr✨ nicht✨ müde✨ werdet✨. Make✨ una✨ no✨ lose✨ heart✨, ometz✨ lev✨, ẹ✨ má✨ ṣe✨ rẹ̀wẹ̀sì✨, kada✨ ku✨ karaya✨.",
       glosses: [
         ["Make una think about am", "Think about him", "pcm"],
         ["wey hold on", "who endured", "pcm"],
@@ -232,7 +232,7 @@ const hebrewsChapterTwelve = {
     },
     {
       number: 11,
-      text: "When✨ correction✨ dey✨ happen✨, that✨ musar✨, ìbáwí✨, jede✨ Zurechtweisung✨, no✨ dey✨ feel✨ like✨ joy✨, keine✨ Freude✨, kì✨ í✨ ṣe✨ ayọ̀✨. E✨ dey✨ pain✨, like✨ tza’ar✨, ìrora✨, sondern✨ Schmerz✨. Later✨ e✨ dey✨ bring✨ fruit✨, peri✨ of✨ tzedek✨, òdodo✨, with✨ peace✨, eine✨ friedvolle✨ Frucht✨ der✨ Gerechtigkeit✨, for✨ those✨ trained✨ by✨ it✨, ndị✨ a✨ zụrụ✨ site✨ na✨ ya✨.",
+      text: "When✨ correction✨ dey✨ happen✨, that✨ musar✨, ìbáwí✨, jede✨ Zurechtweisung✨, no✨ dey✨ feel✨ like✨ joy✨, keine✨ Freude✨, kì✨ í✨ ṣe✨ ayọ̀✨. E✨ dey✨ pain✨, like✨ tza’ar✨, ìrora✨, sondern✨ Schmerz✨. Give✨ it✨ time✨. Later✨ e✨ dey✨ bring✨ fruit✨, peri✨ of✨ tzedek✨, òdodo✨, with✨ peace✨, eine✨ friedvolle✨ Frucht✨ der✨ Gerechtigkeit✨, for✨ those✨ trained✨ by✨ it✨, ndị✨ a✨ zụrụ✨ site✨ na✨ ya✨.",
       glosses: [
         ["When correction dey happen", "While discipline is happening", "pcm"],
         ["musar", "discipline", "he"],
@@ -324,7 +324,7 @@ const hebrewsChapterTwelve = {
     },
     {
       number: 15,
-      text: "Make✨ una✨ watch✨ well✨, achtet✨ darauf✨, ẹ✨ ṣọ́ra✨, so✨ nobody✨ miss✨ out✨ on✨ the✨ chen✨ of✨ Elohim🙏, oore-ọ̀fẹ́✨ Ọlọ́run✨, die✨ Gnade✨ Gottes✨. Make✨ no✨ root✨ grow✨ into✨ trouble✨, no✨ shoresh✨ of✨ merirut✨, gbòǹgbò✨ ìkorò✨, eine✨ bittere✨ Wurzel✨. If✨ e✨ shoot✨ up✨, it✨ can✨ cause✨ trouble✨, Unruhe✨ stiftet✨, and✨ defile✨ many✨, sọ✨ ọ̀pọ̀✨ di✨ aláìmọ́✨, merụọ✨ ọtụtụ✨ mmadụ✨.",
+      text: "Make✨ una✨ watch✨ well✨, achtet✨ darauf✨, ẹ✨ ṣọ́ra✨, so✨ nobody✨ miss✨ out✨ on✨ the✨ chen✨ of✨ Elohim🙏, oore-ọ̀fẹ́✨ Ọlọ́run✨, die✨ Gnade✨ Gottes✨. Make✨ no✨ root✨ grow✨ into✨ trouble✨, no✨ shoresh✨ of✨ merirut✨, gbòǹgbò✨ ìkorò✨, eine✨ bittere✨ Wurzel✨. If✨ e✨ shoot✨ up✨, it✨ can✨ stir✨ up✨ trouble✨, Unruhe✨ stiftet✨, and✨ defile✨ many✨, sọ✨ ọ̀pọ̀✨ di✨ aláìmọ́✨, merụọ✨ ọtụtụ✨ mmadụ✨.",
       glosses: [
         ["Make una watch well", "Watch carefully", "pcm"],
         ["achtet darauf", "see to it", "de"],
@@ -529,7 +529,7 @@ const hebrewsChapterTwelve = {
     },
     {
       number: 24,
-      text: "And✨ una✨ come✨ meet✨ Yeshua✨, Jésù✨, wey✨ stand✨ between✨ as✨ the✨ metavekh✨, alárinà✨, dem✨ Mittler✨ of✨ the✨ brit✨ chadashah✨, májẹ̀mú✨ tuntun✨, des✨ neuen✨ Bundes✨. Una✨ reach✨ the✨ blood✨, the✨ dam✨ wey✨ dem✨ sprinkle✨, ẹ̀jẹ̀✨ tí✨ a✨ fọ́n✨, zum✨ Blut✨ der✨ Besprengung✨. It✨ speaks✨ a✨ better✨ word✨ than✨ Abel’s✨ blood✨, besser✨ redet✨ als✨ Abels✨ Blut✨, karịa✨ ọbara✨ Ebel✨.",
+      text: "And✨ una✨ come✨ meet✨ Yeshua✨, Jésù✨, wey✨ stand✨ between✨ as✨ the✨ metavekh✨, alárinà✨, dem✨ Mittler✨ of✨ the✨ brit✨ chadashah✨, májẹ̀mú✨ tuntun✨, des✨ neuen✨ Bundes✨. Una✨ reach✨ the✨ blood✨, the✨ dam✨ wey✨ dem✨ sprinkle✨, ẹ̀jẹ̀✨ tí✨ a✨ fọ́n✨, zum✨ Blut✨ der✨ Besprengung✨. That✨ blood✨ has✨ something✨ better✨ to✨ say✨ than✨ Abel’s✨ blood✨, besser✨ redet✨ als✨ Abels✨ Blut✨, karịa✨ ọbara✨ Ebel✨.",
       glosses: [
         ["una come meet", "you’ve come to", "pcm"],
         ["Yeshua", "Jesus", "he"],
@@ -575,7 +575,7 @@ const hebrewsChapterTwelve = {
     },
     {
       number: 26,
-      text: "That✨ time✨, ní✨ ìgbà✨ náà✨, damals✨, his✨ kol✨, ohùn✨ rẹ̀✨, seine✨ Stimme✨, shake✨ the✨ ground✨, the✨ eretz✨, ilẹ̀✨ ayé✨, erschütterte✨ die✨ Erde✨. But✨ now✨ e✨ don✨ promise✨, a✨ havtachah✨, ìlérí✨, e✨ talk✨ say✨, “od✨ pa’am✨ achat✨, noch✨ einmal✨, I’ll✨ shake✨ the✨ earth✨ and✨ heaven✨ too✨,” la✨ terre✨ et✨ le✨ ciel✨.",
+      text: "That✨ time✨, ní✨ ìgbà✨ náà✨, damals✨, his✨ kol✨, ohùn✨ rẹ̀✨, seine✨ Stimme✨, shake✨ the✨ ground✨, the✨ eretz✨, ilẹ̀✨ ayé✨, erschütterte✨ die✨ Erde✨. But✨ now✨ e✨ don✨ promise✨, a✨ havtachah✨, ìlérí✨, e✨ talk✨ say✨, “od✨ pa’am✨ achat✨, noch✨ einmal✨, I’ll✨ shake✨ the✨ earth✨ and✨ heaven✨ too✨, la✨ terre✨ et✨ le✨ ciel✨.”",
       glosses: [
         ["That time", "Back then", "pcm"],
         ["ní ìgbà náà", "at that time", "yo"],
