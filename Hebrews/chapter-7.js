@@ -210,7 +210,7 @@ const hebrewsChapterSeven = {
     },
     {
       number: 10,
-      text: "Because✨ when✨ dem✨ meet✨, Malki-Tzedek✨ and✨ Avraham✨, nígbà✨ ìpàdé✨ náà✨, bei✨ dieser✨ Begegnung✨, Levi✨ never✨ born✨ yet✨. E✨ still✨ dey✨ in✨ the✨ zera✨ of✨ his✨ baba✨ ńlá✨, in✨ seinem✨ Vorfahren✨, nínú✨ ìran✨ rẹ̀✨. Na✨ so✨ e✨ be✨ als✨ Melchisedek✨ ihm✨ begegnete✨, nígbà✨ tí✨ Mẹlikisẹ́dẹ́kì✨ pàdé✨ rẹ̀✨, noch✨ vor✨ seiner✨ Geburt✨, avant✨ sa✨ naissance✨.",
+      text: "Because✨ when✨ dem✨ meet✨, Malki-Tzedek✨ and✨ Avraham✨, nígbà✨ ìpàdé✨ náà✨, bei✨ dieser✨ Begegnung✨, Levi✨ never✨ born✨ yet✨. E✨ still✨ dey✨ in✨ the✨ zera✨ of✨ his✨ baba✨ ńlá✨ Abraham✨, in✨ seinem✨ Vorfahren✨, nínú✨ ìran✨ rẹ̀✨. Na✨ so✨ e✨ be✨ als✨ Melchisedek✨ ihm✨ begegnete✨, nígbà✨ tí✨ Mẹlikisẹ́dẹ́kì✨ pàdé✨ rẹ̀✨, noch✨ vor✨ seiner✨ Geburt✨, avant✨ sa✨ naissance✨.",
       glosses: [
         ["when dem meet", "when they met", "pcm"],
         ["Malki-Tzedek", "Melchizedek", "he"],
@@ -392,7 +392,7 @@ const hebrewsChapterSeven = {
     },
     {
       number: 18,
-      text: "Dem✨ set✨ aside✨, wird✨ aufgehoben✨, that✨ earlier✨ mitzvah✨, the✨ àṣẹ✨ àtijọ́✨, die✨ frühere✨ Vorschrift✨. Na✨ because✨ e✨ weak✨, kò✨ lágbára✨, wegen✨ ihrer✨ Schwäche✨. That✨ chulshah✨, that✨ àìlera✨, left✨ it✨ with✨ no✨ to’elet✨. E✨ no✨ help✨, ohne✨ Nutzen✨, kò✨ wúlò✨. That’s✨ the✨ reason✨ for✨ its✨ bitul✨.",
+      text: "Dem✨ set✨ aside✨, wird✨ aufgehoben✨, that✨ earlier✨ mitzvah✨, the✨ àṣẹ✨ àtijọ́✨, die✨ frühere✨ Vorschrift✨. Na✨ because✨ e✨ weak✨, kò✨ lágbára✨, wegen✨ ihrer✨ Schwäche✨. That✨ chulshah✨, that✨ àìlera✨, left✨ it✨ with✨ no✨ to’elet✨. E✨ no✨ help✨, ohne✨ Nutzen✨, kò✨ wúlò✨. That’s✨ why✨ it✨ had✨ to✨ go✨. That’s✨ its✨ bitul✨.",
       glosses: [
         ["Dem set aside", "The former command was set aside", "pcm"],
         ["wird aufgehoben", "is set aside", "de"],
@@ -549,7 +549,7 @@ const hebrewsChapterSeven = {
     },
     {
       number: 25,
-      text: "Na✨ why✨ e✨ fit✨ save✨ completely✨, vollständig✨ retten✨, gbà✨ wọ́n✨ là✨ pátápátá✨, everyone✨ wey✨ come✨ near✨ to✨ Elohim🙏, Ọlọ́run✨, through✨ him✨, durch✨ ihn✨. He’s✨ chai✨ le’olam✨, láéláé✨, lebt✨ allezeit✨, and✨ e✨ dey✨ plead✨ for✨ dem✨, bringing✨ their✨ case✨ to✨ God🙏, ba’adam✨, fún✨ wọn✨, für✨ sie✨ einzutreten✨.",
+      text: "Na✨ why✨ e✨ fit✨ save✨ completely✨, vollständig✨ retten✨, gbà✨ wọ́n✨ là✨ pátápátá✨, everyone✨ wey✨ come✨ near✨ to✨ Elohim🙏, Ọlọ́run✨, through✨ him✨, durch✨ ihn✨. Jesus✨ is✨ chai✨ le’olam✨, láéláé✨, lebt✨ allezeit✨, and✨ e✨ dey✨ plead✨ for✨ dem✨, bringing✨ their✨ case✨ to✨ God🙏, ba’adam✨, fún✨ wọn✨, für✨ sie✨ einzutreten✨.",
       glosses: [
         ["Na why", "That’s why", "pcm"],
         ["e fit save", "he can save", "pcm"],
@@ -571,7 +571,7 @@ const hebrewsChapterSeven = {
     },
     {
       number: 26,
-      text: "Na✨ this✨ kind✨ of✨ kohen🙏 gadol✨, olórí✨ àlùfáà🙏, Hoherpriester🙏, wey✨ fit✨ us✨. He’s✨ kadosh✨, mímọ́✨, heilig✨, tamim✨, aláìlẹ́bi✨, schuldlos✨, and✨ tahor✨, aláìlábàwọ́n✨. E✨ dey✨ separate✨ from✨ sinners✨, getrennt✨ von✨ den✨ Sündern✨. Dem✨ raise✨ am✨ high✨, above✨ the✨ heavens✨, plus✨ haut✨ que✨ les✨ cieux✨.",
+      text: "Na✨ this✨ kind✨ of✨ kohen🙏 gadol✨, olórí✨ àlùfáà🙏, Hoherpriester🙏, wey✨ fit✨ us✨. He’s✨ kadosh✨, mímọ́✨, heilig✨, tamim✨, aláìlẹ́bi✨, schuldlos✨, and✨ tahor✨, aláìlábàwọ́n✨. E✨ dey✨ separate✨ from✨ sinners✨, getrennt✨ von✨ den✨ Sündern✨. Dem✨ raise✨ am✨ high✨, higher✨ than✨ the✨ heavens✨, plus✨ haut✨ que✨ les✨ cieux✨.",
       glosses: [
         ["Na this kind", "It was this kind", "pcm"],
         ["kohen gadol", "high priest", "he"],
