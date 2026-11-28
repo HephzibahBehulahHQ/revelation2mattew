@@ -73,7 +73,7 @@ const hebrewsChapterNine = {
     },
     {
       number: 4,
-      text: "Na✨ there✨ e✨ get✨ a✨ gold💯 incense✨ burner✨, a✨ àwo✨ tùràrí✨, ein✨ goldenes✨ Räuchergefäß✨, and✨ the✨ aron✨ ha-brit✨, àpótí✨ májẹ̀mú✨, die✨ Bundeslade✨, wey✨ dem✨ cover✨ all✨ around✨ in✨ zahav✨, ringsum✨ mit✨ Gold💯. Inside✨ am✨ were✨ the✨ gold💯 jar✨ with✨ man✨, mánà✨, Aaron’s✨ matteh✨ wey✨ sprout✨, ọ̀pá✨ Áárónì✨, Aarons✨ Stab✨, and✨ the✨ covenant✨ tablets✨, di✨ covenant✨ tablets✨.",
+      text: "Na✨ there✨ e✨ get✨ a✨ gold💯 incense✨ burner✨, the✨ àwo✨ tùràrí✨, ein✨ goldenes✨ Räuchergefäß✨, and✨ the✨ aron✨ ha-brit✨, àpótí✨ májẹ̀mú✨, die✨ Bundeslade✨, wey✨ dem✨ cover✨ all✨ around✨ in✨ zahav✨, ringsum✨ mit✨ Gold💯. Inside✨ am✨ were✨ the✨ gold💯 jar✨ with✨ man✨, mánà✨, Aaron’s✨ matteh✨ wey✨ sprout✨, ọ̀pá✨ Áárónì✨, Aarons✨ Stab✨, and✨ the✨ covenant✨ tablets✨, di✨ covenant✨ tablets✨.",
       glosses: [
         ["Na there e get", "That’s where it had", "pcm"],
         ["àwo tùràrí", "incense burner", "yo"],
@@ -142,7 +142,7 @@ const hebrewsChapterNine = {
     },
     {
       number: 7,
-      text: "But✨ for✨ the✨ second✨ room✨, in✨ den✨ zweiten✨ Raum✨, sínú✨ yàrá✨ kejì✨, na✨ only✨ the✨ kohen🙏 gadol✨, olórí✨ àlùfáà🙏, der✨ Hohepriester🙏 allein✨, wey✨ dey✨ enter✨, einmal✨ im✨ Jahr✨, lẹ́ẹ̀kan✨ lọ́dún✨, pa’am✨ bashanah✨. E✨ no✨ go✨ empty✨ hand✨. He✨ carried✨ dam😭, ẹ̀jẹ̀✨, nicht✨ ohne✨ Blut😭, wey✨ e✨ offer✨ for✨ himself✨ and✨ for✨ the✨ people’s✨ shegagot✨, kurakuran✨ jama’a✨.",
+      text: "But✨ for✨ the✨ second✨ room✨, in✨ den✨ zweiten✨ Raum✨, sínú✨ yàrá✨ kejì✨, na✨ only✨ the✨ kohen🙏 gadol✨, olórí✨ àlùfáà🙏, der✨ Hohepriester🙏 allein✨, wey✨ dey✨ enter✨, einmal✨ im✨ Jahr✨, lẹ́ẹ̀kan✨ lọ́dún✨, pa’am✨ bashanah✨. E✨ no✨ go✨ empty✨ hand✨. He✨ carried✨ dam😭, ẹ̀jẹ̀✨, nicht✨ ohne✨ Blut😭, wey✨ e✨ offer✨ for✨ himself✨ and✨ for✨ the✨ people’s✨ shegagot✨, the✨ sins✨ they✨ didn’t✨ realize✨ they’d✨ committed✨, kurakuran✨ jama’a✨.",
       glosses: [
         ["in den zweiten Raum", "into the second room", "de"],
         ["sínú yàrá kejì", "into the second room", "yo"],
@@ -188,7 +188,7 @@ const hebrewsChapterNine = {
     },
     {
       number: 9,
-      text: "Na✨ picture✨ be✨ that✨ for✨ ha-zman✨, àkókò✨ yẹn✨, ein✨ Bild✨ für✨ jene✨ Zeit✨. Dem✨ dey✨ bring✨ matanot✨, ẹ̀bùn✨, and✨ korbanot✨, ẹbọ✨, Gaben✨ und✨ Opfer✨. But✨ e✨ no✨ fit✨ make✨ the✨ person✨ wey✨ dey✨ worship✨ vollkommen✨ in✨ their✨ matzpun✨, ẹ̀rí✨ ọkàn✨, im✨ Gewissen✨, inna✨ dem✨ conscience✨.",
+      text: "Na✨ picture✨ be✨ that✨ for✨ ha-zman✨, àkókò✨ yẹn✨, ein✨ Bild✨ für✨ jene✨ Zeit✨. Dem✨ dey✨ bring✨ matanot✨, ẹ̀bùn✨, and✨ korbanot✨, ẹbọ✨, Gaben✨ und✨ Opfer✨. But✨ even✨ with✨ those✨ offerings✨, e✨ no✨ fit✨ make✨ the✨ person✨ wey✨ dey✨ worship✨ vollkommen✨ in✨ their✨ matzpun✨, ẹ̀rí✨ ọkàn✨, im✨ Gewissen✨, inna✨ dem✨ conscience✨.",
       glosses: [
         ["Na picture be that", "That was a picture", "pcm"],
         ["ha-zman", "the time", "he"],
@@ -257,7 +257,7 @@ const hebrewsChapterNine = {
     },
     {
       number: 12,
-      text: "E✨ no✨ carry✨ the✨ dam😭, ẹ̀jẹ̀✨ of✨ goats✨ and✨ calves✨, das✨ Blut😭 von✨ Böcken✨ und✨ Kälbern✨. Na✨ im✨ own✨ blood😭, damo😭, ẹ̀jẹ̀✨ tirẹ̀✨, durch✨ sein✨ eigenes✨ Blut😭 e✨ take✨ enter✨ the✨ kodesh✨, ibi✨ mímọ́✨, ins✨ Heiligtum✨. E✨ enter✨ one✨ time✨, ein✨ für✨ alle✨ Mal✨. He✨ secured✨ ge’ulah✨, ìràpadà✨ ayérayé✨, for✨ us✨, mgbapụta✨ ebighị✨ ebi✨.",
+      text: "E✨ no✨ carry✨ the✨ dam😭, ẹ̀jẹ̀✨ of✨ goats✨ and✨ calves✨, das✨ Blut😭 von✨ Böcken✨ und✨ Kälbern✨. Na✨ im✨ own✨ blood😭, damo😭, ẹ̀jẹ̀✨ tirẹ̀✨, durch✨ sein✨ eigenes✨ Blut😭 e✨ take✨ enter✨ the✨ kodesh✨, ibi✨ mímọ́✨, ins✨ Heiligtum✨. E✨ enter✨ one✨ time✨, ein✨ für✨ alle✨ Mal✨. He✨ secured✨ lasting✨ freedom✨, ge’ulah✨, ìràpadà✨ ayérayé✨, for✨ us✨, mgbapụta✨ ebighị✨ ebi✨.",
       glosses: [
         ["E no carry", "He didn’t bring", "pcm"],
         ["dam", "blood", "he"],
@@ -327,7 +327,7 @@ const hebrewsChapterNine = {
     },
     {
       number: 15,
-      text: "Na✨ why✨ he✨ is✨ the✨ metavekh✨, the✨ alárinà✨, der✨ Mittler✨ of✨ the✨ brit✨ chadashah✨, májẹ̀mú✨ tuntun✨, eines✨ neuen✨ Bundes✨. As✨ e✨ die✨, durch✨ seinen✨ Tod✨, he✨ secured✨ ge’ulah✨, ìràpadà✨, for✨ the✨ wrongs✨ wey✨ dem✨ do✨ under✨ the✨ first✨ covenant✨, unter✨ dem✨ ersten✨ Bund✨. So✨ people✨ wey✨ God🙏 call✨ can✨ receive✨ the✨ havtachah✨, the✨ ìlérí✨, of✨ an✨ eternal✨ inheritance✨, ihe✨ nketa✨ ebighị✨ ebi✨.",
+      text: "Na✨ why✨ he✨ is✨ the✨ metavekh✨, the✨ alárinà✨, der✨ Mittler✨ of✨ the✨ brit✨ chadashah✨, májẹ̀mú✨ tuntun✨, eines✨ neuen✨ Bundes✨. As✨ e✨ die✨, durch✨ seinen✨ Tod✨, he✨ secured✨ ge’ulah✨, ìràpadà✨, to✨ free✨ people✨ from✨ the✨ wrongs✨ wey✨ dem✨ do✨ under✨ the✨ first✨ covenant✨, unter✨ dem✨ ersten✨ Bund✨. So✨ people✨ wey✨ God🙏 call✨ can✨ receive✨ the✨ havtachah✨, the✨ ìlérí✨, of✨ an✨ eternal✨ inheritance✨, ihe✨ nketa✨ ebighị✨ ebi✨.",
       glosses: [
         ["Na why", "That’s why", "pcm"],
         ["metavekh", "mediator", "he"],
@@ -580,7 +580,7 @@ const hebrewsChapterNine = {
     },
     {
       number: 26,
-      text: "If✨ that✨ were✨ so✨, e✨ for✨ suffer✨ immer✨ wieder✨, léraléra✨, pa’am✨ achar✨ pa’am✨, from✨ the✨ yesod✨, the✨ ìpìlẹ̀✨ of✨ the✨ world✨, seit✨ Grundlegung✨ der✨ Welt✨. But✨ as✨ e✨ be✨ now✨, e✨ don✨ show✨ ein✨ einziges✨ Mal✨, lẹ́ẹ̀kan✨ ṣoṣo✨, at✨ the✨ ketz✨, òpin✨ àwọn✨ àkókò✨, am✨ Ende✨ der✨ Zeiten✨. Na✨ to✨ clear👀 away✨ chet✨ by✨ offering✨ himself✨, por✨ su✨ propio✨ sacrificio✨.",
+      text: "If✨ that✨ were✨ so✨, e✨ for✨ suffer✨ immer✨ wieder✨, léraléra✨, pa’am✨ achar✨ pa’am✨, from✨ the✨ yesod✨, the✨ ìpìlẹ̀✨ of✨ the✨ world✨, seit✨ Grundlegung✨ der✨ Welt✨. But✨ as✨ e✨ be✨ now✨, e✨ don✨ show✨ ein✨ einziges✨ Mal✨, lẹ́ẹ̀kan✨ ṣoṣo✨, at✨ the✨ ketz✨, òpin✨ àwọn✨ àkókò✨, am✨ Ende✨ der✨ Zeiten✨. Na✨ to✨ clear👀 away✨ chet✨, our✨ sin✨, by✨ offering✨ himself✨, por✨ su✨ propio✨ sacrificio✨.",
       glosses: [
         ["e for suffer", "he would have suffered", "pcm"],
         ["immer wieder", "over and over", "de"],
