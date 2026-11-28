@@ -4,7 +4,7 @@ const hebrewsChapterEight = {
   verses: [
     {
       number: 1,
-      text: "Fam✨, na✨ the✨ main✨ thing✨ be✨ this✨ from✨ wetin✨ we✨ dey✨ talk✨, der✨ Kern✨ der✨ Sache✨, kókó✨ ọ̀rọ̀✨. We✨ get✨ that✨ kind✨ of✨ kohen🙏 gadol✨, olórí✨ àlùfáà🙏, einen✨ solchen✨ Hohenpriester🙏. E✨ don✨ sit✨ down✨ limin✨ the✨ kisse✨, the✨ ìtẹ́✨ of✨ the✨ Majesty✨ zur✨ Rechten✨, ní✨ ọwọ́✨ ọ̀tún✨, up✨ in✨ the✨ shamayim✨, im✨ Himmel✨, dans✨ les✨ cieux✨.",
+      text: "Fam✨, na✨ the✨ main✨ thing✨ be✨ this✨ from✨ wetin✨ we✨ dey✨ talk✨, der✨ Kern✨ der✨ Sache✨, kókó✨ ọ̀rọ̀✨. We✨ get✨ Jesus✨ as✨ that✨ kind✨ of✨ kohen🙏 gadol✨, olórí✨ àlùfáà🙏, einen✨ solchen✨ Hohenpriester🙏. E✨ don✨ sit✨ down✨ limin✨ the✨ kisse✨, the✨ ìtẹ́✨ where✨ the✨ Majesty✨ sits✨. Jesus✨ has✨ the✨ seat✨ zur✨ Rechten✨, ní✨ ọwọ́✨ ọ̀tún✨, up✨ in✨ the✨ shamayim✨, im✨ Himmel✨, dans✨ les✨ cieux✨.",
       glosses: [
         ["na the main thing be this", "here’s the main point", "pcm"],
         ["wetin we dey talk", "what we’ve been saying", "pcm"],
@@ -50,7 +50,7 @@ const hebrewsChapterEight = {
     },
     {
       number: 3,
-      text: "Every✨ kohen🙏 gadol✨, olórí✨ àlùfáà🙏, jeder✨ Hohepriester🙏, dem✨ appoint✨ am✨ make✨ e✨ bring✨ matanot✨, ẹ̀bùn✨, and✨ korbanot✨, ẹbọ✨, Gaben✨ und✨ Opfer✨, um✨ sie✨ darzubringen✨. Na✨ why✨ this✨ one✨ must✨ get✨ something✨ to✨ bring✨ as✨ a✨ korban✨, ohun✨ láti✨ fi✨ rúbọ✨, etwas✨ darzubringen✨, ihe✨ ọ✨ ga-enye✨.",
+      text: "Every✨ kohen🙏 gadol✨, olórí✨ àlùfáà🙏, jeder✨ Hohepriester🙏, dem✨ appoint✨ am✨ make✨ e✨ bring✨ matanot✨, ẹ̀bùn✨, and✨ korbanot✨, ẹbọ✨, Gaben✨ und✨ Opfer✨, um✨ sie✨ darzubringen✨. Na✨ why✨ Jesus✨ too✨ must✨ get✨ something✨ to✨ bring✨ as✨ a✨ korban✨, ohun✨ láti✨ fi✨ rúbọ✨, etwas✨ darzubringen✨, ihe✨ ọ✨ ga-enye✨.",
       glosses: [
         ["kohen gadol", "high priest", "he"],
         ["olórí àlùfáà", "high priest", "yo"],
@@ -119,7 +119,7 @@ const hebrewsChapterEight = {
     },
     {
       number: 6,
-      text: "But✨ as✨ e✨ be✨ now✨, Jesus✨ don✨ receive✨ a✨ better✨ sherut✨, iṣẹ́✨ ìránṣẹ́✨, einen✨ besseren✨ Dienst✨. Na✨ him✨ dey✨ stand✨ between✨, the✨ metavekh✨, alárinà✨, der✨ Mittler✨, and✨ his✨ work✨ is✨ greater✨ because✨ it’s✨ for✨ a✨ better✨ brit✨, májẹ̀mú✨, eines✨ besseren✨ Bundes✨. Dem✨ build✨ am✨ on✨ better✨ havtachot✨, àwọn✨ ìlérí✨ tó✨ dára✨ jù✨, auf✨ besseren✨ Verheißungen✨, alkawura✨ mafi✨ kyau✨.",
+      text: "But✨ as✨ e✨ be✨ now✨, Jesus✨ don✨ receive✨ a✨ better✨ sherut✨, iṣẹ́✨ ìránṣẹ́✨, einen✨ besseren✨ Dienst✨. Na✨ him✨ dey✨ stand✨ between✨, the✨ metavekh✨, alárinà✨, der✨ Mittler✨, and✨ what✨ makes✨ his✨ work✨ greater✨ is✨ that✨ he✨ brings✨ us✨ a✨ better✨ brit✨, májẹ̀mú✨, eines✨ besseren✨ Bundes✨. Dem✨ build✨ am✨ on✨ better✨ havtachot✨, àwọn✨ ìlérí✨ tó✨ dára✨ jù✨, auf✨ besseren✨ Verheißungen✨, alkawura✨ mafi✨ kyau✨.",
       glosses: [
         ["as e be now", "as it is now", "pcm"],
         ["don receive", "has received", "pcm"],
@@ -284,7 +284,7 @@ const hebrewsChapterEight = {
     },
     {
       number: 13,
-      text: "As✨ e✨ call✨ am✨ a✨ brit✨ chadashah✨, májẹ̀mú✨ tuntun✨, einen✨ neuen✨ Bund✨, e✨ make✨ the✨ first✨ one✨ old✨. That✨ rishon✨, àkọ́kọ́✨, den✨ ersten✨, don✨ become✨ old✨, yashan✨, àtijọ́✨, veraltet✨. What’s✨ wearing✨ out✨, getting✨ baleh✨, tí✨ ń✨ gbó✨, das✨ alt✨ wird✨, dey✨ close✨ to✨ vanish✨, soon✨ disappear✨, prestes✨ a✨ desaparecer✨.",
+      text: "As✨ e✨ call✨ am✨ a✨ brit✨ chadashah✨, májẹ̀mú✨ tuntun✨, einen✨ neuen✨ Bund✨, e✨ make✨ the✨ first✨ one✨ old✨. That✨ rishon✨, àkọ́kọ́✨, den✨ ersten✨, don✨ become✨ old✨, yashan✨, àtijọ́✨, veraltet✨. What’s✨ already✨ wearing✨ thin✨, getting✨ baleh✨, tí✨ ń✨ gbó✨, das✨ alt✨ wird✨, dey✨ close✨ to✨ vanish✨, soon✨ disappear✨, prestes✨ a✨ desaparecer✨.",
       glosses: [
         ["As e call am", "By calling it", "pcm"],
         ["brit chadashah", "new covenant", "he"],
