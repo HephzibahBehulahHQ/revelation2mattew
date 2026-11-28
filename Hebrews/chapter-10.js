@@ -27,7 +27,7 @@ const hebrewsChapterTen = {
     },
     {
       number: 2,
-      text: "If✨ e✨ fit✨ do✨ am✨, dem✨ for✨ stop✨ making✨ the✨ korbanot✨, the✨ ẹbọ✨, die✨ Opfer✨? The✨ people✨ wey✨ dey✨ worship✨ would✨ already✨ have✨ been✨ ein✨ für✨ alle✨ Mal✨ gereinigt✨, tí✨ a✨ ti✨ wẹ̀✨ mọ́✨, made✨ tehorim✨, lẹ́ẹ̀kan✨ ṣoṣo✨. Dem✨ no✨ for✨ still✨ carry✨ an✨ awareness✨ of✨ chata’im✨, ẹ̀ṣẹ̀✨, in✨ their✨ matzpun✨, im✨ Gewissen✨. That✨ awareness✨ would✨ be✨ nicht✨ mehr✨ da✨, ba✨ sauran✨.",
+      text: "If✨ e✨ fit✨ do✨ am✨, dem✨ for✨ stop✨ making✨ the✨ korbanot✨, the✨ ẹbọ✨, die✨ Opfer✨. The✨ people✨ wey✨ dey✨ worship✨ would✨ already✨ have✨ been✨ ein✨ für✨ alle✨ Mal✨ gereinigt✨, tí✨ a✨ ti✨ wẹ̀✨ mọ́✨, made✨ tehorim✨, lẹ́ẹ̀kan✨ ṣoṣo✨. Dem✨ no✨ for✨ still✨ carry✨ an✨ awareness✨ of✨ chata’im✨, ẹ̀ṣẹ̀✨, in✨ their✨ matzpun✨, im✨ Gewissen✨. That✨ awareness✨ would✨ be✨ nicht✨ mehr✨ da✨, ba✨ sauran✨.",
       glosses: [
         ["If e fit do am", "If it could do that", "pcm"],
         ["dem for stop", "wouldn’t they have stopped", "pcm"],
@@ -256,7 +256,7 @@ const hebrewsChapterTen = {
     },
     {
       number: 12,
-      text: "But✨ this✨ one✨ here✨ offer✨ just✨ one✨ korban✨, ẹbọ✨ kan✨, ein✨ einziges✨ Opfer✨ for✨ chata’im✨, ẹ̀ṣẹ̀✨, für✨ die✨ Sünden✨. That✨ offering✨ lasts✨ le’olam✨, láéláé✨, für✨ immer✨. Then✨ e✨ come✨ sit✨ down✨ limin✨ God🙏, ní✨ ọwọ́✨ ọ̀tún✨ Ọlọ́run✨, zur✨ Rechten✨ Gottes✨, na✨ there✨ e✨ sit✨.",
+      text: "But✨ this✨ one✨ here✨, Jesus✨, offer✨ just✨ one✨ korban✨, ẹbọ✨ kan✨, ein✨ einziges✨ Opfer✨ for✨ chata’im✨, ẹ̀ṣẹ̀✨, für✨ die✨ Sünden✨. That✨ offering✨ lasts✨ le’olam✨, láéláé✨, für✨ immer✨. Then✨ e✨ come✨ sit✨ down✨ limin✨ God🙏, ní✨ ọwọ́✨ ọ̀tún✨ Ọlọ́run✨, zur✨ Rechten✨ Gottes✨, na✨ there✨ e✨ sit✨.",
       glosses: [
         ["this one here", "this one", "pcm"],
         ["offer just one", "offered just one", "pcm"],
@@ -301,7 +301,7 @@ const hebrewsChapterTen = {
     },
     {
       number: 14,
-      text: "Na✨ one✨ offering✨, one✨ korban✨, one✨ ẹbọ✨, durch✨ ein✨ einziges✨ Opfer✨, e✨ use✨ make✨ dem✨ perfect✨, zur✨ Vollendung✨ gebracht✨, sọ✨ wọ́n✨ di✨ pípé✨, brought✨ them✨ to✨ shlemut✨. E✨ last✨ forever✨, le’olam✨, láéláé✨, für✨ immer✨, for✨ those✨ wey✨ dem✨ dey✨ make✨ holy✨, mitkadshim✨, tí✨ a✨ ń✨ sọ✨ di✨ mímọ́✨, die✨ geheiligt✨ werden✨, waɗanda✨ ake✨ tsarkakewa✨.",
+      text: "Na✨ one✨ offering✨, one✨ korban✨, one✨ ẹbọ✨, durch✨ ein✨ einziges✨ Opfer✨, e✨ use✨ make✨ dem✨ perfect✨, zur✨ Vollendung✨ gebracht✨, sọ✨ wọ́n✨ di✨ pípé✨, brought✨ them✨ to✨ shlemut✨. That✨ perfection✨? E✨ last✨ forever✨, le’olam✨, láéláé✨, für✨ immer✨, for✨ those✨ wey✨ dem✨ dey✨ make✨ holy✨, mitkadshim✨, tí✨ a✨ ń✨ sọ✨ di✨ mímọ́✨, die✨ geheiligt✨ werden✨, waɗanda✨ ake✨ tsarkakewa✨.",
       glosses: [
         ["Na one offering", "It was one offering", "pcm"],
         ["korban", "offering", "he"],
@@ -437,7 +437,7 @@ const hebrewsChapterTen = {
     },
     {
       number: 20,
-      text: "E✨ open✨ am✨ for✨ us✨, für✨ uns✨ eröffnet✨, ó✨ ṣí✨ i✨ fún✨ wa✨. That✨ derekh✨, that✨ ọ̀nà✨, na✨ new✨ way✨, chadash✨, ein✨ neuer✨ Weg✨, and✨ e✨ dey✨ alive✨, chai✨, alààyè✨, lebendig✨. We✨ pass✨ through✨ the✨ parokhet✨, aṣọ✨ ìkélé✨, durch✨ den✨ Vorhang✨, that✨ is✨, through✨ his✨ flesh✨.",
+      text: "E✨ open✨ am✨ for✨ us✨, für✨ uns✨ eröffnet✨, ó✨ ṣí✨ i✨ fún✨ wa✨. That✨ derekh✨, that✨ ọ̀nà✨, na✨ new✨ way✨, chadash✨, ein✨ neuer✨ Weg✨, and✨ e✨ dey✨ alive✨, chai✨, alààyè✨, lebendig✨. We✨ pass✨ through✨ the✨ parokhet✨, aṣọ✨ ìkélé✨, durch✨ den✨ Vorhang✨, and✨ that✨ curtain✨ is✨ his✨ own✨ body✨.",
       glosses: [
         ["E open am for us", "He opened it for us", "pcm"],
         ["für uns eröffnet", "opened for us", "de"],
@@ -752,7 +752,7 @@ const hebrewsChapterTen = {
     },
     {
       number: 34,
-      text: "Una✨ feel✨ for✨ me✨ in✨ my✨ kvalim✨, ẹ̀wọ̀n✨, in✨ meinen✨ Fesseln✨. When✨ dem✨ carry✨ una✨ things✨, your✨ rekhush✨, ohun✨ ìní✨ yín✨, den✨ Raub✨ eures✨ Besitzes✨, una✨ take✨ am✨ with✨ joy✨, with✨ simchah✨, ayọ̀✨, mit✨ Freude✨. Una✨ know✨ say✨ you✨ have✨ rekhush✨ kayam✨, something✨ better✨ ní✨ ọ̀run✨, im✨ Himmel✨ that✨ will✨ last✨, una✨ posesión✨ mejor✨ y✨ duradera✨.",
+      text: "Una✨ feel✨ for✨ me✨ while✨ I✨ was✨ locked✨ up✨ in✨ my✨ kvalim✨, ẹ̀wọ̀n✨, in✨ meinen✨ Fesseln✨. When✨ dem✨ carry✨ una✨ things✨, your✨ rekhush✨, ohun✨ ìní✨ yín✨, den✨ Raub✨ eures✨ Besitzes✨, una✨ take✨ am✨ with✨ joy✨, with✨ simchah✨, ayọ̀✨, mit✨ Freude✨. Una✨ know✨ say✨ you✨ have✨ rekhush✨ kayam✨, something✨ better✨ ní✨ ọ̀run✨, im✨ Himmel✨ that✨ will✨ last✨, una✨ posesión✨ mejor✨ y✨ duradera✨.",
       glosses: [
         ["Una feel for me", "You had compassion for me", "pcm"],
         ["kvalim", "chains", "he"],
@@ -775,7 +775,7 @@ const hebrewsChapterTen = {
     },
     {
       number: 35,
-      text: "So✨ make✨ una✨ no✨ throw✨ away✨ your✨ bitachon✨, ìgboyà✨, eure✨ Zuversicht✨. Hold✨ am✨ tight✨, werft✨ sie✨ nicht✨ weg✨, ẹ✨ dì✨ í✨ mú✨. E✨ get✨ a✨ big✨ sakhar✨, a✨ great✨ èrè✨, eine✨ große✨ Belohnung✨. Na✨ big✨ reward✨ be✨ that✨, a✨ gemul✨, ẹ̀san✨ ńlá✨, großer✨ Lohn✨, gadol✨ indeed✨.",
+      text: "So✨ make✨ una✨ no✨ throw✨ away✨ your✨ bitachon✨, ìgboyà✨, eure✨ Zuversicht✨. Hold✨ am✨ tight✨, werft✨ sie✨ nicht✨ weg✨, ẹ✨ dì✨ í✨ mú✨. E✨ get✨ a✨ big✨ sakhar✨ ahead✨, a✨ great✨ èrè✨, eine✨ große✨ Belohnung✨. Na✨ big✨ reward✨ be✨ that✨, a✨ gemul✨, ẹ̀san✨ ńlá✨, großer✨ Lohn✨, gadol✨ indeed✨.",
       glosses: [
         ["make una no throw away", "don’t throw away", "pcm"],
         ["bitachon", "confidence", "he"],
